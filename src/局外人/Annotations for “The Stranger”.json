@@ -1,0 +1,851 @@
+{
+  "metadata": {
+    "identifier": "urn:uuid:23836552-9a47-4f3d-9191-9c991008bb95",
+    "title": "The Stranger",
+    "sortAs": "The Stranger",
+    "language": "en",
+    "description": "Albert Camus (/kæˈmuː/ ka-MOO; French: [albɛʁ kamy] ; 7 November 1913 – 4 January 1960) was a French philosopher, author, dramatist, journalist, world federalist, and political activist. He was the recipient of the 1957 Nobel Prize in Literature at the age of 44, the second-youngest recipient in history. His works include The Stranger, The Plague, The Myth of Sisyphus, The Fall and The Rebel. Camus was born in French Algeria to pied-noir parents. He spent his childhood in a poor neighbourhood and later studied philosophy at the University of Algiers. He was in Paris when the Germans invaded France during World War II in 1940. Camus tried to flee but finally joined the French Resistance where he served as editor-in-chief at Combat, an outlawed newspaper. After the war, he was a celebrity figure and gave many lectures around the world. He married twice but had many extramarital affairs. Camus was politically active; he was part of the left that opposed Joseph Stalin and the Soviet Union because of their totalitarianism. Camus was a moralist and leaned towards anarcho-syndicalism. He was part of many organisations seeking European integration. During the Algerian War (1954–1962), he kept a neutral stance, advocating a multicultural and pluralistic Algeria, a position that was rejected by most parties. Philosophically, Camus's views contributed to the rise of the philosophy known as absurdism. Some consider Camus's work to show him to be an existentialist, even though he himself firmly rejected the term throughout his lifetime.",
+    "published": "1988",
+    "modified": "2025-09-27T13:22:38Z",
+    "author": {
+      "name": "Albert Camus",
+      "sortAs": "Albert Camus",
+      "role": "aut"
+    },
+    "translator": {
+      "name": "Matthew Ward",
+      "role": "trl"
+    }
+  },
+  "progress": [
+    19,
+    130
+  ],
+  "lastLocation": "epubcfi(/6/8!/4,/2[part1-chapter2_title],/6[part1-chapter2_paragraph-1]/1:839)",
+  "annotations": [
+    {
+      "value": "epubcfi(/6/4!/4/6,/1:606,/1:645)",
+      "color": "yellow",
+      "text": "he probably  will  day  after  tomorrow",
+      "note": "#句型分析\n\nwill 与 day 之间省略了 do so",
+      "created": "2025-04-11T13:08:14.230Z",
+      "modified": "2025-04-11T13:08:36.084Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/6,/1:703,/1:708)",
+      "color": "yellow",
+      "text": "as if",
+      "note": "#转折词\n\n仿佛",
+      "created": "2025-04-12T08:14:48.182Z",
+      "modified": "2025-04-12T08:14:58.863Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/8,/1:226,/1:252)",
+      "color": "yellow",
+      "text": " walked  me  to  the  door",
+      "note": "#短语",
+      "created": "2025-04-08T13:32:31.580Z",
+      "modified": "2025-04-08T13:32:40.493Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/10,/1:7,/1:23)",
+      "color": "yellow",
+      "text": " so  as  not  to",
+      "note": "#短语",
+      "created": "2025-04-08T13:33:08.180Z",
+      "modified": "2025-04-08T13:33:14.914Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/10,/1:307,/1:323)",
+      "color": "yellow",
+      "text": " slumped against",
+      "note": "#短语 #常见组合\n\n此处译为：“瘫靠在”\n字面意义：因疲惫/无力而松散地倚靠某物或某人\n\n其他 slump * 组合\n- on\n- in\n- over\n= into",
+      "created": "2025-04-11T13:16:47.381Z",
+      "modified": "2025-04-11T13:22:34.993Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/12,/1:749,/1:760)",
+      "color": "yellow",
+      "text": "cut me  off",
+      "note": "#短语",
+      "created": "2025-04-08T13:39:30.586Z",
+      "modified": "2025-04-08T13:39:35.404Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/12,/1:966,/1:972)",
+      "color": "red",
+      "text": "modest",
+      "note": "#生词\n/ ˈmɑːdɪst /\nadj 不太多的\n",
+      "created": "2025-04-16T07:44:03.424Z",
+      "modified": "2025-04-16T07:44:39.842Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/12,/1:1132,/1:1141)",
+      "color": "yellow",
+      "text": " own  age",
+      "note": "#短语",
+      "created": "2025-04-08T13:43:24.734Z",
+      "modified": "2025-04-08T13:43:29.637Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/14,/1:430,/1:438)",
+      "color": "yellow",
+      "text": "took  up",
+      "note": "#短语 #多义词\n\n此处译为 “占据”",
+      "created": "2025-04-12T02:32:54.938Z",
+      "modified": "2025-04-12T02:33:34.121Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/16,/1:261,/1:269)",
+      "color": "red",
+      "text": "mortuary",
+      "note": "#生词\n/ ˈmɔrtʃuˌeri /\n停尸房\n",
+      "created": "2025-04-16T07:47:17.288Z",
+      "modified": "2025-04-16T07:48:16.110Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/16,/1:271,/1:283)",
+      "color": "yellow",
+      "text": "So as not to",
+      "note": "#短语",
+      "created": "2025-04-08T13:48:14.527Z",
+      "modified": "2025-04-08T13:48:22.063Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/16,/1:349,/1:366)",
+      "color": "yellow",
+      "text": "are a bit on edge",
+      "note": "#短语\n“to be on edge”，“a bit”，在此表程度，非与短语固定搭配",
+      "created": "2025-04-09T09:58:46.937Z",
+      "modified": "2025-04-09T09:59:37.480Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/16,/1:430,/1:438)",
+      "color": "yellow",
+      "text": "care for",
+      "note": "#短语 #固定搭配 #短语动词\n\n此处译为“照顾”。\n\n核心意义：\n- 长期照料（物理层面）\n- 深层次关怀（情感层面）",
+      "created": "2025-04-12T02:40:43.536Z",
+      "modified": "2025-04-12T02:42:55.297Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/16,/1:459,/1:468)",
+      "color": "red",
+      "text": "courtyard",
+      "note": "#生词\n/ ˈkɔːrtjɑːrd /\nn 庭院，院子",
+      "created": "2025-04-16T07:49:20.226Z",
+      "modified": "2025-04-16T07:50:14.054Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/16,/1:670,/1:679)",
+      "color": "red",
+      "text": "parakeets",
+      "note": "#生词\n/ ˈpærəkiːt /\nn 长尾小鹦鹉",
+      "created": "2025-04-16T07:51:11.654Z",
+      "modified": "2025-04-16T07:52:07.417Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/16,/1:941,/1:945)",
+      "color": "yellow",
+      "text": "over",
+      "note": "#介词用法",
+      "created": "2025-04-09T10:12:22.629Z",
+      "modified": "2025-04-09T10:12:33.722Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/16,/1:950,/1:958)",
+      "color": "red",
+      "text": "departed",
+      "note": "#生词\ndepart / dɪˈpɑrt /\ndeparted / dɪˈpɑrtəd /\n\nn 逝者（此处过去分词作名词）",
+      "created": "2025-04-16T07:53:17.510Z",
+      "modified": "2025-04-16T07:55:58.796Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/16,/1:1045,/1:1054)",
+      "color": "red",
+      "text": "religious",
+      "note": "#生词\n/ rɪˈlɪdʒəs /\nadj 宗教的",
+      "created": "2025-04-16T07:57:24.971Z",
+      "modified": "2025-04-16T07:57:42.434Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/16,/1:1055,/1:1061)",
+      "color": "red",
+      "text": "burial",
+      "note": "#生词\n/ ˈberiəl /\nn 葬礼",
+      "created": "2025-04-16T07:56:39.398Z",
+      "modified": "2025-04-16T07:57:03.685Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/16,/1:1078,/1:1085)",
+      "color": "red",
+      "text": "liberty",
+      "note": "#生词\n/ ˈlɪbərti /\n",
+      "created": "2025-04-16T07:58:20.984Z",
+      "modified": "2025-04-16T07:58:27.963Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/16,/1:1208,/1:1219)",
+      "color": "yellow",
+      "text": "in her life",
+      "note": "#注意\n“in her life”这个时间状语，在实际的英语使用习惯时是放到最后的（这句中）。此处是翻译的特殊化处理",
+      "created": "2025-04-09T10:22:10.093Z",
+      "modified": "2025-04-09T10:23:08.610Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/18,/1:41,/1:52)",
+      "color": "yellow",
+      "text": "whitewashed",
+      "note": "#分词作形容词",
+      "created": "2025-04-09T10:33:35.808Z",
+      "modified": "2025-04-09T10:34:01.146Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/18,/1:77,/1:81)",
+      "color": "yellow",
+      "text": " for",
+      "note": "#介词\n此处 \"for\" 表示 替代/充当（= serving as, in place of），属于英语中一种特殊的隐喻性用法，强调功能的非常规转换。\n\n如：He used a box for a table. （他用箱子当桌子）",
+      "created": "2025-04-09T10:40:15.246Z",
+      "modified": "2025-04-09T10:40:49.400Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/18,/1:108,/1:122)",
+      "color": "orange",
+      "text": " consisted  of",
+      "note": "#短语",
+      "created": "2025-04-10T02:53:09.447Z",
+      "modified": "2025-04-10T02:53:23.265Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/18,/1:341,/1:355)",
+      "color": "aqua",
+      "text": " standing  out",
+      "note": "#短语\n\n- 字面意义：突出、显眼\n- 文学功能：强调物体在视觉或概念上的 不协调性",
+      "created": "2025-04-12T02:58:29.305Z",
+      "modified": "2025-04-12T02:59:49.818Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/18,/1:357,/1:364)",
+      "color": "yellow",
+      "text": "against",
+      "note": "#介词\n\ngraph TD\n    A[遇到\"against\"] --> B{有物理接触?}\n    B -->|Yes| C[支撑/倚靠]\n    B -->|No| D{有立场冲突?}\n    D -->|Yes| E[反对/对抗]\n    D -->|No| F{有视觉对比?}\n    F -->|Yes| G[衬托/反衬]\n    F -->|No| H{涉及未来防备?}\n    H -->|Yes| I[预防]\n    H -->|No| J[基准对照]",
+      "created": "2025-04-10T03:21:04.149Z",
+      "modified": "2025-04-10T03:21:21.400Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/20,/1:47,/1:62)",
+      "color": "yellow",
+      "text": "must have  been",
+      "note": "#语法 #完成时\n\n没有用had：情态动词后永远接动词原形\n\nnote：是否需要建立时间关联（完成时的本质）\n\nnote2：must等情态动词，导致be动词无法表达“过去”时态，因此借助完成时表达\n\n--------\n\nmust 具备两种不同的含义：1 必须；2 必定。\n使用那个取决于上下文。当上下文具有推断性质则用“必定”；有义务、强制性质则用“必须”",
+      "created": "2025-04-10T03:28:52.413Z",
+      "modified": "2025-04-12T05:16:53.043Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/20,/1:78,/1:87)",
+      "color": "red",
+      "text": "stuttered",
+      "note": "#生词\n\nv，n\n\n口吃、结巴",
+      "created": "2025-04-12T05:39:39.856Z",
+      "modified": "2025-04-12T05:41:57.104Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/20,/1:539,/1:547)",
+      "color": "red",
+      "text": "twirling",
+      "note": "#生词\n（使）旋转，转动。此处应该是在拨弄他的胡须（moustache）\nv，n",
+      "created": "2025-04-12T05:44:01.442Z",
+      "modified": "2025-04-12T05:45:31.752Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/20,/1:552,/1:561)",
+      "color": "red",
+      "text": "moustache",
+      "note": "#生词\n\n胡子",
+      "created": "2025-04-12T07:55:57.005Z",
+      "modified": "2025-04-12T07:56:06.579Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/20,/1:642,/1:646)",
+      "color": "red",
+      "text": "pale",
+      "note": "#生词\n美 / peɪl /\n灰白",
+      "created": "2025-04-12T07:57:01.610Z",
+      "modified": "2025-04-12T07:57:27.181Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/20,/1:665,/1:672)",
+      "color": "red",
+      "text": "reddish",
+      "note": "#生词\n\n微红的",
+      "created": "2025-04-12T07:58:24.563Z",
+      "modified": "2025-04-12T07:58:40.197Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/20,/1:674,/1:684)",
+      "color": "red",
+      "text": "complexion",
+      "note": "#生词\n\n肤色",
+      "created": "2025-04-12T07:58:44.347Z",
+      "modified": "2025-04-12T07:58:53.787Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/20,/1:865,/1:872)",
+      "color": "red",
+      "text": "abscess",
+      "note": "#生词\n\n/ ˈæbˌses /\n溃疡，脓肿",
+      "created": "2025-04-12T08:00:22.263Z",
+      "modified": "2025-04-12T08:01:02.714Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/20,/1:965,/1:972)",
+      "color": "red",
+      "text": "bandage",
+      "note": "#生词\n\n/ ˈbændɪdʒ / 绷带",
+      "created": "2025-04-12T08:02:01.547Z",
+      "modified": "2025-04-12T08:02:13.340Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/20,/1:1082,/1:1086)",
+      "color": "red",
+      "text": "flat",
+      "note": "#生词\n\n/ flæt /\n- adj 平的",
+      "created": "2025-04-12T08:03:35.762Z",
+      "modified": "2025-04-12T08:06:02.666Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/22,/1:5,/1:11)",
+      "color": "yellow",
+      "text": " she'd",
+      "note": "#完成时",
+      "created": "2025-04-10T05:31:45.659Z",
+      "modified": "2025-04-10T05:31:51.506Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/22,/1:173,/1:181)",
+      "color": "red",
+      "text": "presence",
+      "note": "#生词\n\n/ prez(ə)ns /\n- n 感觉",
+      "created": "2025-04-12T08:08:21.653Z",
+      "modified": "2025-04-12T08:09:17.900Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/22,/1:182,/1:206)",
+      "color": "yellow",
+      "text": "breathing down  my  neck",
+      "note": "#短语\n- 英语习语，字面\"朝脖子呼吸\"，实际指近距离监视或压迫感。\n- 中文对应表达可用\"盯梢\"\"死盯着\"，这里选\"紧盯着后背\"保留生理不适的意象。\n",
+      "created": "2025-04-10T05:38:02.550Z",
+      "modified": "2025-04-10T05:38:29.260Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/22,/1:201,/1:206)",
+      "color": "red",
+      "text": " neck",
+      "note": "#生词\n\n/ nek /\n\n- n 脖子",
+      "created": "2025-04-12T08:07:24.971Z",
+      "modified": "2025-04-12T08:08:09.435Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/22,/1:308,/1:315)",
+      "color": "red",
+      "text": " hornet",
+      "note": "#生词\n/ ˈhɔːrnɪt /\n- n 黄蜂",
+      "created": "2025-04-12T08:10:16.567Z",
+      "modified": "2025-04-12T08:10:49.061Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/22,/1:324,/1:331)",
+      "color": "red",
+      "text": "buzzing",
+      "note": "#生词\n\n/ bʌzɪŋ /\n- v 发出嗡嗡声",
+      "created": "2025-04-12T08:12:53.968Z",
+      "modified": "2025-04-12T08:13:20.374Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/22,/1:483,/1:494)",
+      "color": "yellow",
+      "text": "Right  away",
+      "note": "#短语\n\n马上",
+      "created": "2025-04-12T08:14:09.082Z",
+      "modified": "2025-04-12T08:14:18.305Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/22,/1:532,/1:551)",
+      "color": "yellow",
+      "text": " he'd  been waiting",
+      "note": "#完成时\n\n完成时强调caretaker一直在等！",
+      "created": "2025-04-10T06:06:51.529Z",
+      "modified": "2025-04-10T06:08:22.757Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/22,/1:552,/1:562)",
+      "color": "orange",
+      "text": "all  along",
+      "note": "#短语 #副词短语 #固定搭配\n\n- adv 全程/始终/一直以来（此处翻译使用）\n- 不可拆分使用",
+      "created": "2025-04-12T08:19:33.692Z",
+      "modified": "2025-04-12T08:22:41.003Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/24,/1:14,/1:34)",
+      "color": "orange",
+      "text": "did a lot of talking",
+      "note": "#常见组合\n\n- do开头的强调短语（do+动名词），强调说话本身。\n- “说了好些话”",
+      "created": "2025-04-12T08:25:39.614Z",
+      "modified": "2025-04-12T08:27:41.780Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/24,/1:40,/1:55)",
+      "color": "yellow",
+      "text": "would have been",
+      "note": "#情态动词 #完成时",
+      "created": "2025-04-10T06:13:02.981Z",
+      "modified": "2025-04-10T06:13:14.345Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/24,/1:109,/1:117)",
+      "color": "orange",
+      "text": " end  up",
+      "note": "#短语 #不及物短语\n\n- 字面意义：最终到达/成为（某种状态/位置，比如可以接职位、状态）\n- 隐含语义：非计划性结果（常含意外或荒诞意味）\n\nend up caretaker，就可以译为最后会成为门房。\n\n句中意指他会一辈子在马伦戈当门房",
+      "created": "2025-04-12T08:48:24.507Z",
+      "modified": "2025-04-12T08:54:47.141Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/24,/1:259,/1:272)",
+      "color": "orange",
+      "text": " around  here",
+      "note": "#常见组合\n\n这一带。单只有 here 的话，位置就过于精准",
+      "created": "2025-04-12T08:57:34.908Z",
+      "modified": "2025-04-12T08:58:15.855Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/24,/1:427,/1:431)",
+      "color": "red",
+      "text": "bury",
+      "note": "#生词\n/ ˈberi /\n- v 埋葬",
+      "created": "2025-04-12T09:00:41.647Z",
+      "modified": "2025-04-12T09:01:07.463Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/24,/1:474,/1:480)",
+      "color": "red",
+      "text": "plains",
+      "note": "#生词 #句型解析\n\n/ pleɪnz /\n- n 平原\n\n这里 plains 用了复数形式，此非语法规则导致，而是此处意指“平原地区”，plain的复数形式有这个含义",
+      "created": "2025-04-12T09:04:57.850Z",
+      "modified": "2025-04-12T09:07:30.063Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/24,/1:888,/1:902)",
+      "color": "yellow",
+      "text": "sort  of thing",
+      "note": "#短语\n\nsort此处是名词（它本有名词词性），表示种类。sort of thing：这种事。",
+      "created": "2025-04-10T06:28:33.951Z",
+      "modified": "2025-04-10T06:29:32.617Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/24,/1:986,/1:996)",
+      "color": "yellow",
+      "text": "stepped in",
+      "note": "#短语\n打断、插嘴",
+      "created": "2025-04-10T06:33:12.706Z",
+      "modified": "2025-04-10T06:33:46.544Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/24,/1:1085,/1:1095)",
+      "color": "yellow",
+      "text": "made sense",
+      "note": "#短语",
+      "created": "2025-04-10T08:43:12.477Z",
+      "modified": "2025-04-10T08:43:19.017Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/26,/1:286,/1:303)",
+      "color": "yellow",
+      "text": " been  struck  by",
+      "note": "#短语\nbe struck by：被……震惊到",
+      "created": "2025-04-10T07:10:08.514Z",
+      "modified": "2025-04-10T07:10:31.352Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/26,/1:304,/1:331)",
+      "color": "aqua",
+      "text": " the  way  he had of saying",
+      "note": "#句型解析\n\n- he had 作定语修饰 the way\n- of saying 作定语修饰 the way",
+      "created": "2025-04-10T07:11:14.511Z",
+      "modified": "2025-04-10T07:12:21.916Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/26,/1:476,/1:484)",
+      "color": "yellow",
+      "text": " he  was",
+      "note": "#句子解析\n\n\"he was\" 的完整形式：he was old（为避免重复省略old）\n\n----\n\n实际去掉 he was，用him\n\n- 日常对话：\"She's smarter than me.\"（非正式）\n- 书面语：\"She's smarter than I (am).\"（正式）",
+      "created": "2025-04-10T09:07:39.404Z",
+      "modified": "2025-04-10T09:09:03.088Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/28,/1:0,/1:10)",
+      "color": "yellow",
+      "text": "Just  then",
+      "note": "#副词短语 #转折词\n\n时间副词短语。意为“紧接着”（毫秒级的）",
+      "created": "2025-04-10T09:45:23.871Z",
+      "modified": "2025-04-10T09:48:28.088Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/28,/1:241,/1:253)",
+      "color": "yellow",
+      "text": "dining  hall",
+      "note": "#生词组\n\n餐厅",
+      "created": "2025-04-10T09:19:17.542Z",
+      "modified": "2025-04-10T09:19:35.576Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/28,/1:487,/1:497)",
+      "color": "yellow",
+      "text": " felt like",
+      "note": "#固定搭配\n\n\"想要/有...的冲动\"（非字面\"感觉像\"）",
+      "created": "2025-04-10T09:24:30.809Z",
+      "modified": "2025-04-10T09:24:45.668Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/28,/1:590,/1:601)",
+      "color": "yellow",
+      "text": "right there",
+      "note": "#副词短语\n\n就在那里",
+      "created": "2025-04-10T09:39:51.007Z",
+      "modified": "2025-04-10T09:40:05.061Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/30,/1:0,/1:14)",
+      "color": "yellow",
+      "text": "At  one  point",
+      "note": "#转折词\n\n其间",
+      "created": "2025-04-10T09:50:53.151Z",
+      "modified": "2025-04-10T09:51:11.406Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/30,/1:134,/1:142)",
+      "color": "yellow",
+      "text": " go  get",
+      "note": "#省略结构\n\n\"go get\" 是英语中常见的动词连用结构（Serial Verb Construction），属于非正式但广泛接受的口语表达。其完整形式应为：\n\"go and get\"\n\n---\n\n\"go\" 与 \"get\" 表示连续发生的动作，且具有目的关系：\n离开当前位置（go）→ 取得某物（get）",
+      "created": "2025-04-10T15:09:00.692Z",
+      "modified": "2025-04-10T15:10:26.466Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/32,/1:58,/1:65)",
+      "color": "yellow",
+      "text": "I'd had",
+      "note": "#完成时\n\n过去完成时（had had）表示\"闭眼\"发生在主句动作（seemed brighter）之前\n",
+      "created": "2025-04-10T17:14:42.865Z",
+      "modified": "2025-04-10T17:15:24.293Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/32,/1:242,/1:252)",
+      "color": "yellow",
+      "text": "stood  out",
+      "note": "#固定搭配\n\n- 可以单独使用的搭配\n- 显眼、突出\n\n例：He stood out in crowd.（他在人群中突出）",
+      "created": "2025-04-11T03:14:50.553Z",
+      "modified": "2025-04-11T03:24:06.324Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/32,/1:644,/1:660)",
+      "color": "yellow",
+      "text": "it was hard  for",
+      "note": "#常见于文中",
+      "created": "2025-04-11T03:19:07.451Z",
+      "modified": "2025-04-11T03:19:20.796Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/32,/1:850,/1:860)",
+      "color": "yellow",
+      "text": " stick out",
+      "note": "#短语 #短语动词\n\n- 需要接宾语，不可单独使用\n- “突出”\n- ”stick out“ 与 “stand out” 皆有 “突出” 意思。但前者强调物理上，实际上的突出；后者强调视觉上、感官上",
+      "created": "2025-04-11T03:25:11.610Z",
+      "modified": "2025-04-11T03:27:40.755Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/32,/1:1224,/1:1233)",
+      "color": "yellow",
+      "text": "sucked in",
+      "note": "#短语 #短语动词\n\n“吸入”，组成一个新的单元词，suck in 是固定的搭配\n\n- 需接宾语",
+      "created": "2025-04-11T03:47:44.045Z",
+      "modified": "2025-04-11T04:24:18.921Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/38,/1:530,/1:545)",
+      "color": "yellow",
+      "text": "Soon afterwards",
+      "note": "#转折词\n\n“不久后”。时间长度：soon afterward > at one point > just then",
+      "created": "2025-04-11T06:57:11.838Z",
+      "modified": "2025-04-11T07:00:58.722Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/46,/1:590,/1:605)",
+      "color": "yellow",
+      "text": "straightened up",
+      "note": "#短语\n\n- 不及物时：“站起来”\n- 及物时：“收拾”",
+      "created": "2025-04-11T07:26:29.654Z",
+      "modified": "2025-04-11T07:29:18.420Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/48,/1:290,/1:304)",
+      "color": "yellow",
+      "text": " From  then on",
+      "note": "#转折词\n\n“从那时起”",
+      "created": "2025-04-11T07:27:32.055Z",
+      "modified": "2025-04-11T07:27:58.362Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/48,/1:1539,/1:1549)",
+      "color": "yellow",
+      "text": "stuck  out",
+      "note": "#短语\n\n- 具备不及物。“突起”（尖锐感，如突出物、异类）\n- 不可拆分",
+      "created": "2025-04-11T12:16:22.040Z",
+      "modified": "2025-04-11T12:18:12.014Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/50,/1:199,/1:219)",
+      "color": "yellow",
+      "text": " getting  under  way",
+      "note": "#短语",
+      "created": "2025-04-07T16:18:49.235Z",
+      "modified": "2025-04-07T16:18:56.837Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/50,/1:681,/1:697)",
+      "color": "yellow",
+      "text": " leading  up  to",
+      "note": "#短语",
+      "created": "2025-04-08T05:45:26.249Z",
+      "modified": "2025-04-08T05:45:34.027Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/52,/1:172,/1:187)",
+      "color": "yellow",
+      "text": " losing  ground",
+      "note": "#短语",
+      "created": "2025-04-08T07:10:01.875Z",
+      "modified": "2025-04-08T07:10:06.779Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/52,/1:241,/1:254)",
+      "color": "yellow",
+      "text": " dropped back",
+      "note": "#短语\n\n- “回落、落后”，但属于主动性的\n- 固定搭配，通常不及物。常接 “from” 变为及物；\n\n前文的“losing ground” 也有“落后”的意思，但它是被动“抛离”的\n",
+      "created": "2025-04-11T09:07:34.982Z",
+      "modified": "2025-04-11T09:10:36.547Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/52,/1:466,/1:475)",
+      "color": "yellow",
+      "text": "crackling",
+      "note": "#拟声词",
+      "created": "2025-04-11T09:11:28.377Z",
+      "modified": "2025-04-11T09:11:42.568Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/52,/1:919,/1:933)",
+      "color": "yellow",
+      "text": "A minute later",
+      "note": "#转折词",
+      "created": "2025-04-11T09:14:10.431Z",
+      "modified": "2025-04-11T09:14:16.375Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/52,/1:1435,/1:1448)",
+      "color": "yellow",
+      "text": "wipe them off",
+      "note": "#短语 #短语动词\n\n“擦掉”\n\n- 不可分：wipe off the table\n- 可分： wipe the stain off",
+      "created": "2025-04-11T09:19:31.557Z",
+      "modified": "2025-04-11T09:20:48.571Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/54,/1:342,/1:353)",
+      "color": "yellow",
+      "text": " sank  into",
+      "note": "#短语 #动词短语\n\nsink into，陷入（物理上的，注意非掉入，指缓慢陷入柔软/液态物质）",
+      "created": "2025-04-11T09:41:26.924Z",
+      "modified": "2025-04-11T09:43:08.039Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/54,/1:395,/1:409)",
+      "color": "aqua",
+      "text": " Sticking  up ",
+      "note": "#短语\n\n“竖起”，物理上的。\n\nnote：前文有“stick out” 意为 “突出”",
+      "created": "2025-04-11T09:49:49.318Z",
+      "modified": "2025-04-11T09:52:05.077Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/54,/1:504,/1:526)",
+      "color": "yellow",
+      "text": " been  molded  out  of",
+      "note": "#固定搭配\n\nbe molded out of + <材料>：由<材料>塑造而成",
+      "created": "2025-04-11T09:54:45.583Z",
+      "modified": "2025-04-11T09:56:15.655Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/54,/1:1191,/1:1200)",
+      "color": "yellow",
+      "text": " cut  out",
+      "note": "#短语 #短语动词\n\n含“突然偏离原路径”之义\n\n- 不及物",
+      "created": "2025-04-11T10:18:15.712Z",
+      "modified": "2025-04-11T10:19:46.950Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/54,/1:1277,/1:1286)",
+      "color": "yellow",
+      "text": "up  ahead",
+      "note": "#短语\n\n前方不远处（强调视线可及范围的前方位置）",
+      "created": "2025-04-11T10:28:05.780Z",
+      "modified": "2025-04-11T10:28:59.660Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/54,/1:1373,/1:1381)",
+      "color": "yellow",
+      "text": "catch up",
+      "note": "#短语\n\n赶上、追赶\n\n追赶人时后接with",
+      "created": "2025-04-11T10:32:35.776Z",
+      "modified": "2025-04-11T10:33:20.941Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/56,/1:269,/1:277)",
+      "color": "yellow",
+      "text": "go  with",
+      "note": "#短语 #不可分短语\n\n与……相配/协调（强调视觉/风格的匹配性）",
+      "created": "2025-04-11T10:39:28.259Z",
+      "modified": "2025-04-11T10:40:22.054Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/56,/1:433,/1:442)",
+      "color": "yellow",
+      "text": " work  up",
+      "note": "#短语 #可分短语\n\n强调累积的动作。比如这里work up后面的sweat：汗水在累积，可以理解为“出汗”\n\n可以是下面情况（不完全）：\n- 生理反应\n- 情绪/心理\n- 创作/准备\n- 机械/物理（work up the engine）\n",
+      "created": "2025-04-11T10:47:13.053Z",
+      "modified": "2025-04-11T10:54:22.886Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/56,/1:462,/1:478)",
+      "color": "yellow",
+      "text": " catch  a  chill",
+      "note": "#固定搭配\n\n着凉/受寒",
+      "created": "2025-04-11T12:04:46.099Z",
+      "modified": "2025-04-11T12:05:12.333Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/56,/1:531,/1:543)",
+      "color": "yellow",
+      "text": " no  way out",
+      "note": "#固定搭配\n\n- no way\n- no way out：无解",
+      "created": "2025-04-11T12:07:51.260Z",
+      "modified": "2025-04-11T12:08:15.912Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/56,/1:591,/1:601)",
+      "color": "yellow",
+      "text": " stuck  in",
+      "note": "#短语\n\n- 仅及物；\n- 这里可以翻译为“印在”。强调被困于内部，无法离开的粘腻感（如陷入体制、沥青）",
+      "created": "2025-04-11T12:18:19.459Z",
+      "modified": "2025-04-11T12:21:17.306Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/56,/1:770,/1:785)",
+      "color": "yellow",
+      "text": " streaming down",
+      "note": "#短语\n\n- “流下”，强调连续的不规则的流动。\n- 意象（联想）：水流/瀑布",
+      "created": "2025-04-11T12:25:42.532Z",
+      "modified": "2025-04-11T12:26:44.749Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/56,/1:853,/1:867)",
+      "color": "yellow",
+      "text": " dripping  off",
+      "note": "#短语\n\n- 此处译为“滴落”。强调克服表面附着力而落下（比如露珠在叶子上滑落）",
+      "created": "2025-04-11T12:29:15.113Z",
+      "modified": "2025-04-11T12:31:13.046Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/56,/1:875,/1:885)",
+      "color": "yellow",
+      "text": "spread out",
+      "note": "#短语\n\n- 此处译为“扩散”。液体/物体向外扩展覆盖更大面积。",
+      "created": "2025-04-11T12:36:37.984Z",
+      "modified": "2025-04-11T12:37:00.975Z"
+    },
+    {
+      "value": "epubcfi(/6/4!/4/56,/1:1161,/1:1176)",
+      "color": "yellow",
+      "text": " spilling  over",
+      "note": "#短语\n\n- 此处译为“溢下”。强调液体因过量而溢出容器边缘",
+      "created": "2025-04-11T12:44:37.311Z",
+      "modified": "2025-04-11T12:45:15.791Z"
+    },
+    {
+      "value": "epubcfi(/6/8!/4/4[part1-chapter2_paragraph-0],/1:70,/1:77)",
+      "color": "yellow",
+      "text": "annoyed",
+      "note": "#生词",
+      "created": "2025-09-29T08:33:45.215Z",
+      "modified": "2025-09-29T08:33:55.448Z"
+    },
+    {
+      "value": "epubcfi(/6/8!/4/4[part1-chapter2_paragraph-0],/1:532,/1:542)",
+      "color": "yellow",
+      "text": " have  had",
+      "note": "#完成时",
+      "created": "2025-09-29T08:35:32.504Z",
+      "modified": "2025-09-29T08:35:42.289Z"
+    },
+    {
+      "value": "epubcfi(/6/8!/4/6[part1-chapter2_paragraph-1],/1:100,/1:107)",
+      "color": "yellow",
+      "text": "shaving",
+      "note": "#生词",
+      "created": "2025-09-29T08:37:23.212Z",
+      "modified": "2025-09-29T08:37:30.080Z"
+    },
+    {
+      "value": "epubcfi(/6/8!/4/6[part1-chapter2_paragraph-1],/1:201,/1:210)",
+      "color": "yellow",
+      "text": "streetcar",
+      "note": "#生词",
+      "created": "2025-09-29T08:37:51.608Z",
+      "modified": "2025-09-29T08:37:56.872Z"
+    },
+    {
+      "value": "epubcfi(/6/8!/4/6[part1-chapter2_paragraph-1],/1:257,/1:263)",
+      "color": "yellow",
+      "text": "harbor",
+      "note": "#生词",
+      "created": "2025-09-29T08:38:06.108Z",
+      "modified": "2025-09-29T08:38:11.134Z"
+    },
+    {
+      "value": "epubcfi(/6/8!/4/6[part1-chapter2_paragraph-1],/1:283,/1:293)",
+      "color": "yellow",
+      "text": "dove  into",
+      "note": "#短语",
+      "created": "2025-09-29T08:38:20.154Z",
+      "modified": "2025-09-29T08:38:24.394Z"
+    },
+    {
+      "value": "epubcfi(/6/8!/4/6[part1-chapter2_paragraph-1],/1:371,/1:384)",
+      "color": "yellow",
+      "text": "Marie Cardona",
+      "note": "#人物",
+      "created": "2025-09-29T08:38:38.222Z",
+      "modified": "2025-09-29T08:38:46.096Z"
+    },
+    {
+      "value": "epubcfi(/6/8!/4/6[part1-chapter2_paragraph-1],/1:389,/1:404)",
+      "color": "red",
+      "text": " former  typist",
+      "note": "#生词",
+      "created": "2025-09-29T08:38:57.608Z",
+      "modified": "2025-09-29T08:39:17.311Z"
+    },
+    {
+      "value": "epubcfi(/6/8!/4/6[part1-chapter2_paragraph-1],/1:428,/1:437)",
+      "color": "yellow",
+      "text": " I'd  had",
+      "note": "#完成时",
+      "created": "2025-09-29T08:40:24.650Z",
+      "modified": "2025-09-29T08:40:37.374Z"
+    }
+  ]
+}
