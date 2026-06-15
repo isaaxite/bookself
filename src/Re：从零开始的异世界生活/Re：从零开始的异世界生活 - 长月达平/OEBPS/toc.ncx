@@ -1,0 +1,3096 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:f88a399714d94c7c8c079c738f098f8a" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+	
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Re：从零开始的异世界生活</text>
+      </navLabel>
+      <content src="Text/000.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>第一卷 序章 『开始的余温』</text>
+      </navLabel>
+      <content src="Text/001.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>第一卷 第一章 『开始的结束』</text>
+      </navLabel>
+      <content src="Text/002.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>第一卷 第二章 『太迟的抵抗』</text>
+      </navLabel>
+      <content src="Text/003.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>第一卷 第三章 『结束与开始』</text>
+      </navLabel>
+      <content src="Text/004.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>第一卷 第四章 『第四次的正直』</text>
+      </navLabel>
+      <content src="Text/005.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>第一卷 第五章 『从零开始的异世界生活』</text>
+      </navLabel>
+      <content src="Text/006.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>第一卷 终章 『月亮都看在眼里』</text>
+      </navLabel>
+      <content src="Text/007.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>第一卷 后记</text>
+      </navLabel>
+      <content src="Text/008.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>第一卷 插图</text>
+      </navLabel>
+      <content src="Text/009.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>第二卷 序章『救赎的开始』</text>
+      </navLabel>
+      <content src="Text/010.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>第二卷 第一章 『自觉的感情』</text>
+      </navLabel>
+      <content src="Text/011.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>第二卷 第二章 『约定之晨尚远』</text>
+      </navLabel>
+      <content src="Text/012.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>第二卷 第三章 『锁链的声响』</text>
+      </navLabel>
+      <content src="Text/013.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>第二卷 第四章 『薄暮之时的捉迷藏』</text>
+      </navLabel>
+      <content src="Text/014.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>第二卷 第五章 『期望的早晨』</text>
+      </navLabel>
+      <content src="Text/015.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>第二卷 后记</text>
+      </navLabel>
+      <content src="Text/016.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>第二卷 插图</text>
+      </navLabel>
+      <content src="Text/017.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>第三卷 第一章 『菜月·昴重新开始』</text>
+      </navLabel>
+      <content src="Text/018.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>第三卷 第二章 『哭过喊过就会停止哭泣』</text>
+      </navLabel>
+      <content src="Text/019.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>第三卷 第三章 『勇气的意义』</text>
+      </navLabel>
+      <content src="Text/020.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>第三卷 第四章 『鬼上身的作法』</text>
+      </navLabel>
+      <content src="Text/021.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>第三卷 休息 『雷姆』</text>
+      </navLabel>
+      <content src="Text/022.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>第三卷 第五章 『ALL IN』</text>
+      </navLabel>
+      <content src="Text/023.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>第三卷 终章 『未来的事』</text>
+      </navLabel>
+      <content src="Text/024.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>第三卷 休息 『月下的密谈』</text>
+      </navLabel>
+      <content src="Text/025.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>第三卷 后记</text>
+      </navLabel>
+      <content src="Text/026.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>第三卷 插图</text>
+      </navLabel>
+      <content src="Text/027.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>第四卷 序章 『愚者的坚持』</text>
+      </navLabel>
+      <content src="Text/028.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>第四卷 第一章 『再访王都』</text>
+      </navLabel>
+      <content src="Text/029.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>第四卷 第二章 『加持，再会，约定』</text>
+      </navLabel>
+      <content src="Text/030.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>第四卷 第三章 『感情恶劣到爆的与会成员』</text>
+      </navLabel>
+      <content src="Text/031.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>第四卷 第四章 『国王候补人选及其骑士们』</text>
+      </navLabel>
+      <content src="Text/032.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>第四卷 第五章 『自称骑士——菜月·昴』</text>
+      </navLabel>
+      <content src="Text/033.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>第四卷 终章 『骑士们的想法』</text>
+      </navLabel>
+      <content src="Text/034.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>第四卷 后记</text>
+      </navLabel>
+      <content src="Text/035.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>第四卷 插图</text>
+      </navLabel>
+      <content src="Text/036.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>第五卷 序章『其名为——』</text>
+      </navLabel>
+      <content src="Text/037.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>第五卷 第一章『腐败的精神』</text>
+      </navLabel>
+      <content src="Text/038.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>第五卷 第二章『开始变化的事态与雷姆的意志』</text>
+      </navLabel>
+      <content src="Text/039.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>第五卷 第三章『名为绝望的疾病』</text>
+      </navLabel>
+      <content src="Text/040.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>第五卷 第四章『疯狂的外侧』</text>
+      </navLabel>
+      <content src="Text/041.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>第五卷 第五章『怠惰』</text>
+      </navLabel>
+      <content src="Text/042.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>第五卷 后记</text>
+      </navLabel>
+      <content src="Text/043.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>第五卷 插图</text>
+      </navLabel>
+      <content src="Text/044.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>第六卷 第一章『拙稚的谈判』</text>
+      </navLabel>
+      <content src="Text/045.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>第六卷 第二章『猪的欲望』</text>
+      </navLabel>
+      <content src="Text/046.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>第六卷 第三章『白鲸之颚』</text>
+      </navLabel>
+      <content src="Text/047.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>第六卷 第四章『无法诉诸言语』</text>
+      </navLabel>
+      <content src="Text/048.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>第六卷 第五章『从零开始』</text>
+      </navLabel>
+      <content src="Text/049.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>第六卷 第六章『被分到的卡片』</text>
+      </navLabel>
+      <content src="Text/050.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>第六卷 后记</text>
+      </navLabel>
+      <content src="Text/051.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>第六卷 插图</text>
+      </navLabel>
+      <content src="Text/052.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>第七卷 第一章 『被分到的手牌』</text>
+      </navLabel>
+      <content src="Text/053.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>第七卷 第二章 『决战前夕』</text>
+      </navLabel>
+      <content src="Text/054.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>第七卷 第三章 『白鲸攻略战』</text>
+      </navLabel>
+      <content src="Text/055.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>第七卷 第四章 『对抗绝望的赌注』</text>
+      </navLabel>
+      <content src="Text/056.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>第七卷 第五章 『威尔海姆·范·阿斯特雷亚』</text>
+      </navLabel>
+      <content src="Text/057.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>第七卷 第六章 『通往梅札斯领地之路』</text>
+      </navLabel>
+      <content src="Text/058.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>第七卷 后记</text>
+      </navLabel>
+      <content src="Text/059.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>第七卷 下卷预告</text>
+      </navLabel>
+      <content src="Text/060.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>第七卷 插图</text>
+      </navLabel>
+      <content src="Text/061.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>外传 ex1 狮子王所见之梦 『梦想的起始』</text>
+      </navLabel>
+      <content src="Text/062.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>外传 ex1 狮子王所见之梦 『菲利克斯·阿盖尔是男儿身女儿心』</text>
+      </navLabel>
+      <content src="Text/063.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>外传 ex1 狮子王所见之梦 『卡尔斯腾公爵领地的战乙女』</text>
+      </navLabel>
+      <content src="Text/064.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>外传 ex1 狮子王所见之梦 『菲利克斯·阿盖尔的束缚』</text>
+      </navLabel>
+      <content src="Text/065.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>外传 ex1 狮子王所见之梦 『狮子王所见之梦』</text>
+      </navLabel>
+      <content src="Text/066.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>外传 ex1 狮子王所见之梦 后记</text>
+      </navLabel>
+      <content src="Text/067.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>外传 ex1 狮子王所见之梦 插图</text>
+      </navLabel>
+      <content src="Text/068.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>外传 ex2 剑鬼恋歌 一幕</text>
+      </navLabel>
+      <content src="Text/069.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>外传 ex2 剑鬼恋歌 二幕</text>
+      </navLabel>
+      <content src="Text/070.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>外传 ex2 剑鬼恋歌 三幕</text>
+      </navLabel>
+      <content src="Text/071.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>外传 ex2 剑鬼恋歌 四幕</text>
+      </navLabel>
+      <content src="Text/072.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>外传 ex2 剑鬼恋歌 五幕</text>
+      </navLabel>
+      <content src="Text/073.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>外传 ex2 剑鬼恋歌 六幕</text>
+      </navLabel>
+      <content src="Text/074.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>外传 ex2 剑鬼恋歌 七幕</text>
+      </navLabel>
+      <content src="Text/075.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>外传 ex2 剑鬼恋歌 幕间</text>
+      </navLabel>
+      <content src="Text/076.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>外传 ex2 剑鬼恋歌 落幕</text>
+      </navLabel>
+      <content src="Text/077.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>外传 ex2 剑鬼恋歌 后记</text>
+      </navLabel>
+      <content src="Text/078.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-80" playOrder="80">
+      <navLabel>
+        <text>外传 ex2 剑鬼恋歌 插图</text>
+      </navLabel>
+      <content src="Text/079.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>第八卷 第一章『怠惰一闪』</text>
+      </navLabel>
+      <content src="Text/080.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>第八卷 第二章『——战斗吧』</text>
+      </navLabel>
+      <content src="Text/081.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-83" playOrder="83">
+      <navLabel>
+        <text>第八卷 第三章『回来的意义』</text>
+      </navLabel>
+      <content src="Text/082.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-84" playOrder="84">
+      <navLabel>
+        <text>第八卷 第四章『阴险狠毒的怠惰』</text>
+      </navLabel>
+      <content src="Text/083.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-85" playOrder="85">
+      <navLabel>
+        <text>第八卷 第五章『履行契约』</text>
+      </navLabel>
+      <content src="Text/084.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-86" playOrder="86">
+      <navLabel>
+        <text>第八卷 后记</text>
+      </navLabel>
+      <content src="Text/085.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-87" playOrder="87">
+      <navLabel>
+        <text>第八卷 插图</text>
+      </navLabel>
+      <content src="Text/086.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-88" playOrder="88">
+      <navLabel>
+        <text>第八卷 附录小册子</text>
+      </navLabel>
+      <content src="Text/087.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-89" playOrder="89">
+      <navLabel>
+        <text>短篇集 『从零开始的英雄史诗』</text>
+      </navLabel>
+      <content src="Text/088.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>短篇集 『女仆长无法放松休息的假日』</text>
+      </navLabel>
+      <content src="Text/089.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-91" playOrder="91">
+      <navLabel>
+        <text>短篇集 『放弃追随的那天』</text>
+      </navLabel>
+      <content src="Text/090.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-92" playOrder="92">
+      <navLabel>
+        <text>短篇集 『爱蜜莉雅梦游仙境』</text>
+      </navLabel>
+      <content src="Text/091.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-93" playOrder="93">
+      <navLabel>
+        <text>短篇集 后记</text>
+      </navLabel>
+      <content src="Text/092.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-94" playOrder="94">
+      <navLabel>
+        <text>短篇集 预告：莉莉安娜&菜月昴</text>
+      </navLabel>
+      <content src="Text/093.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-95" playOrder="95">
+      <navLabel>
+        <text>短篇集 插图</text>
+      </navLabel>
+      <content src="Text/094.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-96" playOrder="96">
+      <navLabel>
+        <text>短篇 艾米莉娅的博客练习用日记</text>
+      </navLabel>
+      <content src="Text/095.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-97" playOrder="97">
+      <navLabel>
+        <text>短篇 EX 从零开始过错的异世界生活</text>
+      </navLabel>
+      <content src="Text/096.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>短篇 剑鬼恋歌 那之后的两人 前篇</text>
+      </navLabel>
+      <content src="Text/097.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-99" playOrder="99">
+      <navLabel>
+        <text>短篇 剑鬼恋歌 那之后的两人 后篇</text>
+      </navLabel>
+      <content src="Text/098.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-100" playOrder="100">
+      <navLabel>
+        <text>短篇集 2 『对E·M·T献上情歌』</text>
+      </navLabel>
+      <content src="Text/099.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-101" playOrder="101">
+      <navLabel>
+        <text>短篇集 2 『RAM IS ORDER』</text>
+      </navLabel>
+      <content src="Text/100.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-102" playOrder="102">
+      <navLabel>
+        <text>短篇集 2 『OPERATION·KOKKURI』</text>
+      </navLabel>
+      <content src="Text/101.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-103" playOrder="103">
+      <navLabel>
+        <text>短篇集 2 『图书馆员碧翠丝不甘愿的约定』</text>
+      </navLabel>
+      <content src="Text/102.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-104" playOrder="104">
+      <navLabel>
+        <text>短篇集 2 『喜欢冷天气』</text>
+      </navLabel>
+      <content src="Text/103.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-105" playOrder="105">
+      <navLabel>
+        <text>短篇集 2 『酒精之乱』</text>
+      </navLabel>
+      <content src="Text/104.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-106" playOrder="106">
+      <navLabel>
+        <text>短篇集 2 后记</text>
+      </navLabel>
+      <content src="Text/105.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-107" playOrder="107">
+      <navLabel>
+        <text>短篇集 2 插图</text>
+      </navLabel>
+      <content src="Text/106.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-108" playOrder="108">
+      <navLabel>
+        <text>第九卷 序章『Re:Start』</text>
+      </navLabel>
+      <content src="Text/107.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-109" playOrder="109">
+      <navLabel>
+        <text>第九卷 第一章『名为温暖的福音』</text>
+      </navLabel>
+      <content src="Text/108.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-110" playOrder="110">
+      <navLabel>
+        <text>第九卷 第二章『准备好的舞台后』</text>
+      </navLabel>
+      <content src="Text/109.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-111" playOrder="111">
+      <navLabel>
+        <text>第九卷 第三章『自称骑士和最优秀骑士』</text>
+      </navLabel>
+      <content src="Text/110.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-112" playOrder="112">
+      <navLabel>
+        <text>第九卷 第四章『怠惰的末路』</text>
+      </navLabel>
+      <content src="Text/111.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-113" playOrder="113">
+      <navLabel>
+        <text>第九卷 第五章『——只是这样的故事』</text>
+      </navLabel>
+      <content src="Text/112.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-114" playOrder="114">
+      <navLabel>
+        <text>第九卷 第六章『各自的誓言』</text>
+      </navLabel>
+      <content src="Text/113.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-115" playOrder="115">
+      <navLabel>
+        <text>第九卷 后记</text>
+      </navLabel>
+      <content src="Text/114.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-116" playOrder="116">
+      <navLabel>
+        <text>第九卷 插图</text>
+      </navLabel>
+      <content src="Text/115.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-117" playOrder="117">
+      <navLabel>
+        <text>第十卷 序章『坟墓』</text>
+      </navLabel>
+      <content src="Text/116.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-118" playOrder="118">
+      <navLabel>
+        <text>第十卷 第一章『千辛万苦抵达的地方』</text>
+      </navLabel>
+      <content src="Text/117.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-119" playOrder="119">
+      <navLabel>
+        <text>第十卷 第二章『通往圣域的路上』</text>
+      </navLabel>
+      <content src="Text/118.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-120" playOrder="120">
+      <navLabel>
+        <text>第十卷 第三章『久候多时的重逢』</text>
+      </navLabel>
+      <content src="Text/119.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-121" playOrder="121">
+      <navLabel>
+        <text>第十卷 第四章『亲子』</text>
+      </navLabel>
+      <content src="Text/120.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-122" playOrder="122">
+      <navLabel>
+        <text>第十卷 第五章『踏出的一步』</text>
+      </navLabel>
+      <content src="Text/121.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-123" playOrder="123">
+      <navLabel>
+        <text>第十卷 后记</text>
+      </navLabel>
+      <content src="Text/122.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-124" playOrder="124">
+      <navLabel>
+        <text>第十卷 插图</text>
+      </navLabel>
+      <content src="Text/123.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-125" playOrder="125">
+      <navLabel>
+        <text>第十一卷 第一章『女仆·女仆·女仆』</text>
+      </navLabel>
+      <content src="Text/124.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-126" playOrder="126">
+      <navLabel>
+        <text>第十一卷 第二章『少女的福音』</text>
+      </navLabel>
+      <content src="Text/125.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-127" playOrder="127">
+      <navLabel>
+        <text>第十一卷 第三章『朋友』</text>
+      </navLabel>
+      <content src="Text/126.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-128" playOrder="128">
+      <navLabel>
+        <text>第十一卷 第四章『生命的价值』</text>
+      </navLabel>
+      <content src="Text/127.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-129" playOrder="129">
+      <navLabel>
+        <text>第十一卷 第五章『魔女们的茶会』</text>
+      </navLabel>
+      <content src="Text/128.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-130" playOrder="130">
+      <navLabel>
+        <text>第十一卷 第六章『我爱你爱你爱你爱你爱你爱你——』</text>
+      </navLabel>
+      <content src="Text/129.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-131" playOrder="131">
+      <navLabel>
+        <text>第十一卷 后记</text>
+      </navLabel>
+      <content src="Text/130.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-132" playOrder="132">
+      <navLabel>
+        <text>第十一卷 插图</text>
+      </navLabel>
+      <content src="Text/131.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-133" playOrder="133">
+      <navLabel>
+        <text>第十二卷 第一章『爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我爱我──』</text>
+      </navLabel>
+      <content src="Text/132.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-134" playOrder="134">
+      <navLabel>
+        <text>第十二卷 第二章『我知道地狱是什么样子』</text>
+      </navLabel>
+      <content src="Text/133.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-135" playOrder="135">
+      <navLabel>
+        <text>第十二卷 第三章『始自四百年前的吶喊』</text>
+      </navLabel>
+      <content src="Text/134.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-136" playOrder="136">
+      <navLabel>
+        <text>第十二卷 第四章『死亡的味道』</text>
+      </navLabel>
+      <content src="Text/135.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-137" playOrder="137">
+      <navLabel>
+        <text>第十二卷 第五章『Ending List』</text>
+      </navLabel>
+      <content src="Text/136.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-138" playOrder="138">
+      <navLabel>
+        <text>第十二卷 第六章『魔女的茶会』</text>
+      </navLabel>
+      <content src="Text/137.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-139" playOrder="139">
+      <navLabel>
+        <text>第十二卷 后记</text>
+      </navLabel>
+      <content src="Text/138.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-140" playOrder="140">
+      <navLabel>
+        <text>第十二卷 插图</text>
+      </navLabel>
+      <content src="Text/139.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-141" playOrder="141">
+      <navLabel>
+        <text>第十三卷 第一章『让人泫然欲泣的声音』</text>
+      </navLabel>
+      <content src="Text/140.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-142" playOrder="142">
+      <navLabel>
+        <text>第十三卷 第二章『置胜算于度外』</text>
+      </navLabel>
+      <content src="Text/141.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-143" playOrder="143">
+      <navLabel>
+        <text>第十三卷 第三章『STRAIGHT　BET』</text>
+      </navLabel>
+      <content src="Text/142.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-144" playOrder="144">
+      <navLabel>
+        <text>第十三卷 第四章『谎言，骗子，唬烂精』</text>
+      </navLabel>
+      <content src="Text/143.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-145" playOrder="145">
+      <navLabel>
+        <text>第十三卷 第五章『奥托·思文』</text>
+      </navLabel>
+      <content src="Text/144.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-146" playOrder="146">
+      <navLabel>
+        <text>第十三卷 第六章『相信的理由』</text>
+      </navLabel>
+      <content src="Text/145.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-147" playOrder="147">
+      <navLabel>
+        <text>第十三卷 第七章『奎恩之石一个人爬不上去』</text>
+      </navLabel>
+      <content src="Text/146.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-148" playOrder="148">
+      <navLabel>
+        <text>第十三卷 第八章『情书』</text>
+      </navLabel>
+      <content src="Text/147.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-149" playOrder="149">
+      <navLabel>
+        <text>第十三卷 后记</text>
+      </navLabel>
+      <content src="Text/148.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-150" playOrder="150">
+      <navLabel>
+        <text>第十三卷 插图</text>
+      </navLabel>
+      <content src="Text/149.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-151" playOrder="151">
+      <navLabel>
+        <text>第十四卷 第一章『──记忆的旅途』</text>
+      </navLabel>
+      <content src="Text/150.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-152" playOrder="152">
+      <navLabel>
+        <text>第十四卷 第二章『圣域的起始，和崩坏的开始』</text>
+      </navLabel>
+      <content src="Text/151.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-153" playOrder="153">
+      <navLabel>
+        <text>第十四卷 第三章『贝特鲁吉乌斯曾笑开怀的日子』</text>
+      </navLabel>
+      <content src="Text/152.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-154" playOrder="154">
+      <navLabel>
+        <text>第十四卷 第四章『艾利欧尔大森林的永久冻土』</text>
+      </navLabel>
+      <content src="Text/153.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-155" playOrder="155">
+      <navLabel>
+        <text>第十四卷 第五章『在唇瓣抹上殷红』</text>
+      </navLabel>
+      <content src="Text/154.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-156" playOrder="156">
+      <navLabel>
+        <text>第十四卷 第六章『将谎言化作希望』</text>
+      </navLabel>
+      <content src="Text/155.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-157" playOrder="157">
+      <navLabel>
+        <text>第十四卷 第七章『咆哮的重逢』</text>
+      </navLabel>
+      <content src="Text/156.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-158" playOrder="158">
+      <navLabel>
+        <text>第十四卷 后记</text>
+      </navLabel>
+      <content src="Text/157.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-159" playOrder="159">
+      <navLabel>
+        <text>第十四卷 插图</text>
+      </navLabel>
+      <content src="Text/158.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-160" playOrder="160">
+      <navLabel>
+        <text>第十五卷 第一章『在罗兹瓦尔宅邸的最后一天』</text>
+      </navLabel>
+      <content src="Text/159.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-161" playOrder="161">
+      <navLabel>
+        <text>第十五卷 第二章『映照在水面上的幸福』</text>
+      </navLabel>
+      <content src="Text/160.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-162" playOrder="162">
+      <navLabel>
+        <text>第十五卷 第三章『──森林的漆黑之王·基尔缇拉乌来袭！！』</text>
+      </navLabel>
+      <content src="Text/161.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-163" playOrder="163">
+      <navLabel>
+        <text>第十五卷 第四章『下次一定会举行茶会』</text>
+      </navLabel>
+      <content src="Text/162.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-164" playOrder="164">
+      <navLabel>
+        <text>第十五卷 第五章『连鲜血和内脏都一并疼爱』</text>
+      </navLabel>
+      <content src="Text/163.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-165" playOrder="165">
+      <navLabel>
+        <text>第十五卷 第六章『从复仇开始』</text>
+      </navLabel>
+      <content src="Text/164.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-166" playOrder="166">
+      <navLabel>
+        <text>第十五卷 第七章『──选我吧』</text>
+      </navLabel>
+      <content src="Text/165.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-167" playOrder="167">
+      <navLabel>
+        <text>第十五卷 第八章『雪的脸型』</text>
+      </navLabel>
+      <content src="Text/166.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-168" playOrder="168">
+      <navLabel>
+        <text>第十五卷 幕间『各自的妥协』</text>
+      </navLabel>
+      <content src="Text/167.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-169" playOrder="169">
+      <navLabel>
+        <text>第十五卷 终章『月光下，踩著随性的舞步』</text>
+      </navLabel>
+      <content src="Text/168.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-170" playOrder="170">
+      <navLabel>
+        <text>第十五卷 余篇『──再度降临』</text>
+      </navLabel>
+      <content src="Text/169.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-171" playOrder="171">
+      <navLabel>
+        <text>第十五卷 后记</text>
+      </navLabel>
+      <content src="Text/170.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-172" playOrder="172">
+      <navLabel>
+        <text>第十五卷 插图</text>
+      </navLabel>
+      <content src="Text/171.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-173" playOrder="173">
+      <navLabel>
+        <text>第十五卷 特典 魔女的茶会之余</text>
+      </navLabel>
+      <content src="Text/172.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-174" playOrder="174">
+      <navLabel>
+        <text>第十六卷 第一章『开头总由来访者开始』</text>
+      </navLabel>
+      <content src="Text/173.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-175" playOrder="175">
+      <navLabel>
+        <text>第十六卷 第二章『水门都市朴利斯提拉』</text>
+      </navLabel>
+      <content src="Text/174.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-176" playOrder="176">
+      <navLabel>
+        <text>第十六卷 第三章『意外的重逢、该来的重逢、意料外的重逢』</text>
+      </navLabel>
+      <content src="Text/175.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-177" playOrder="177">
+      <navLabel>
+        <text>第十六卷 第四章『聒噪的寂静』</text>
+      </navLabel>
+      <content src="Text/176.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-178" playOrder="178">
+      <navLabel>
+        <text>第十六卷 第五章『剧场型恶意』</text>
+      </navLabel>
+      <content src="Text/177.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-179" playOrder="179">
+      <navLabel>
+        <text>第十六卷 后记</text>
+      </navLabel>
+      <content src="Text/178.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-180" playOrder="180">
+      <navLabel>
+        <text>第十六卷 插图</text>
+      </navLabel>
+      <content src="Text/179.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-181" playOrder="181">
+      <navLabel>
+        <text>第十七卷 第一章『简单的核对答案』</text>
+      </navLabel>
+      <content src="Text/180.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-182" playOrder="182">
+      <navLabel>
+        <text>第十七卷 第二章『冰炎之结果』</text>
+      </navLabel>
+      <content src="Text/181.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-183" playOrder="183">
+      <navLabel>
+        <text>第十七卷 第三章『魔女教灾害对策本部』</text>
+      </navLabel>
+      <content src="Text/182.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-184" playOrder="184">
+      <navLabel>
+        <text>第十七卷 第四章『华丽猛虎』</text>
+      </navLabel>
+      <content src="Text/183.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-185" playOrder="185">
+      <navLabel>
+        <text>第十七卷 第五章『都市市政厅夺还作战』</text>
+      </navLabel>
+      <content src="Text/184.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-186" playOrder="186">
+      <navLabel>
+        <text>第十七卷 后记</text>
+      </navLabel>
+      <content src="Text/185.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-187" playOrder="187">
+      <navLabel>
+        <text>第十七卷 插图</text>
+      </navLabel>
+      <content src="Text/186.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-188" playOrder="188">
+      <navLabel>
+        <text>短篇集 3 『My fair bad lady』</text>
+      </navLabel>
+      <content src="Text/187.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-189" playOrder="189">
+      <navLabel>
+        <text>短篇集 3 『佩特拉眼中的世界』</text>
+      </navLabel>
+      <content src="Text/188.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-190" playOrder="190">
+      <navLabel>
+        <text>短篇集 3 『雷姆极为平凡幸福的一天』</text>
+      </navLabel>
+      <content src="Text/189.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-191" playOrder="191">
+      <navLabel>
+        <text>短篇集 3 『卡拉拉基女孩遇见猫』</text>
+      </navLabel>
+      <content src="Text/190.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-192" playOrder="192">
+      <navLabel>
+        <text>短篇集 3 『阳光，照耀水面』</text>
+      </navLabel>
+      <content src="Text/191.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-193" playOrder="193">
+      <navLabel>
+        <text>短篇集 3 后记</text>
+      </navLabel>
+      <content src="Text/192.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-194" playOrder="194">
+      <navLabel>
+        <text>短篇集 3 插图</text>
+      </navLabel>
+      <content src="Text/193.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-195" playOrder="195">
+      <navLabel>
+        <text>外传 ex3 剑鬼恋谭 『剑鬼恋谭──之后的两人』</text>
+      </navLabel>
+      <content src="Text/194.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-196" playOrder="196">
+      <navLabel>
+        <text>外传 ex3 剑鬼恋谭 『剑鬼恋谭──婚礼之日』</text>
+      </navLabel>
+      <content src="Text/195.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-197" playOrder="197">
+      <navLabel>
+        <text>外传 ex3 剑鬼恋谭 『剑鬼恋谭──聘可塔特的银华乱舞』</text>
+      </navLabel>
+      <content src="Text/196.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-198" playOrder="198">
+      <navLabel>
+        <text>外传 ex3 剑鬼恋谭 『剑鬼恋谭──中场休息的情侣们』</text>
+      </navLabel>
+      <content src="Text/197.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-199" playOrder="199">
+      <navLabel>
+        <text>外传 ex3 剑鬼恋谭 后记</text>
+      </navLabel>
+      <content src="Text/198.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-200" playOrder="200">
+      <navLabel>
+        <text>外传 ex3 剑鬼恋谭 插图</text>
+      </navLabel>
+      <content src="Text/199.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-201" playOrder="201">
+      <navLabel>
+        <text>短篇集 4 『菲鲁特，从零开始的王选生活』</text>
+      </navLabel>
+      <content src="Text/200.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-202" playOrder="202">
+      <navLabel>
+        <text>短篇集 4 『从零开始的王选生活『金狮子与剑圣』』</text>
+      </navLabel>
+      <content src="Text/201.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-203" playOrder="203">
+      <navLabel>
+        <text>短篇集 4 『傲慢与顽固与僵尸』</text>
+      </navLabel>
+      <content src="Text/202.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-204" playOrder="204">
+      <navLabel>
+        <text>短篇集 4 『奥托的悲喜交杂行商录』</text>
+      </navLabel>
+      <content src="Text/203.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-205" playOrder="205">
+      <navLabel>
+        <text>短篇集 4 后记</text>
+      </navLabel>
+      <content src="Text/204.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-206" playOrder="206">
+      <navLabel>
+        <text>短篇集 4 插图</text>
+      </navLabel>
+      <content src="Text/205.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-207" playOrder="207">
+      <navLabel>
+        <text>第十八卷 序章『浊流』</text>
+      </navLabel>
+      <content src="Text/206.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-208" playOrder="208">
+      <navLabel>
+        <text>第十八卷 第一章『败战处理』</text>
+      </navLabel>
+      <content src="Text/207.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-209" playOrder="209">
+      <navLabel>
+        <text>第十八卷 第二章『骑士的条件』</text>
+      </navLabel>
+      <content src="Text/208.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-210" playOrder="210">
+      <navLabel>
+        <text>第十八卷 第三章『最新的英雄与最古老的英雄』</text>
+      </navLabel>
+      <content src="Text/209.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-211" playOrder="211">
+      <navLabel>
+        <text>第十八卷 第四章『名留青史的繁星』</text>
+      </navLabel>
+      <content src="Text/210.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-212" playOrder="212">
+      <navLabel>
+        <text>第十八卷 第五章『迟早会喜欢上的人』</text>
+      </navLabel>
+      <content src="Text/211.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-213" playOrder="213">
+      <navLabel>
+        <text>第十八卷 后记</text>
+      </navLabel>
+      <content src="Text/212.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-214" playOrder="214">
+      <navLabel>
+        <text>第十八卷 插图</text>
+      </navLabel>
+      <content src="Text/213.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-215" playOrder="215">
+      <navLabel>
+        <text>短篇集 5 『王选前传 青之继承人』</text>
+      </navLabel>
+      <content src="Text/214.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-216" playOrder="216">
+      <navLabel>
+        <text>短篇集 5 『卡拉拉基女孩与猫眼』</text>
+      </navLabel>
+      <content src="Text/215.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-217" playOrder="217">
+      <navLabel>
+        <text>短篇集 5 『三傻同行！土蜘蛛篇』</text>
+      </navLabel>
+      <content src="Text/216.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-218" playOrder="218">
+      <navLabel>
+        <text>短篇集 5 后记</text>
+      </navLabel>
+      <content src="Text/217.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-219" playOrder="219">
+      <navLabel>
+        <text>短篇集 5 插图</text>
+      </navLabel>
+      <content src="Text/218.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-220" playOrder="220">
+      <navLabel>
+        <text>第十九卷 序章『混战都市』</text>
+      </navLabel>
+      <content src="Text/219.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-221" playOrder="221">
+      <navLabel>
+        <text>第十九卷 第一章『强欲攻略战开幕』</text>
+      </navLabel>
+      <content src="Text/220.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-222" playOrder="222">
+      <navLabel>
+        <text>第十九卷 第二章『燃烧都市赞歌』</text>
+      </navLabel>
+      <content src="Text/221.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-223" playOrder="223">
+      <navLabel>
+        <text>第十九卷 第三章『在绝缘状上签名』</text>
+      </navLabel>
+      <content src="Text/222.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-224" playOrder="224">
+      <navLabel>
+        <text>第十九卷 第四章『莉莉安娜·玛斯柯瑞德』</text>
+      </navLabel>
+      <content src="Text/223.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-225" playOrder="225">
+      <navLabel>
+        <text>第十九卷 第五章『──我相信你』</text>
+      </navLabel>
+      <content src="Text/224.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-226" playOrder="226">
+      <navLabel>
+        <text>第十九卷 第六章『雷古勒斯·柯尔尼亚斯』</text>
+      </navLabel>
+      <content src="Text/225.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-227" playOrder="227">
+      <navLabel>
+        <text>第十九卷 后记</text>
+      </navLabel>
+      <content src="Text/226.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-228" playOrder="228">
+      <navLabel>
+        <text>第十九卷 插图</text>
+      </navLabel>
+      <content src="Text/227.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-229" playOrder="229">
+      <navLabel>
+        <text>外传 ex4 最优纪行 『王选前日谭 流血的帝国外交』</text>
+      </navLabel>
+      <content src="Text/228.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-230" playOrder="230">
+      <navLabel>
+        <text>外传 ex4 最优纪行 『王选前日谭 剑圣与闪电的银华乱舞』</text>
+      </navLabel>
+      <content src="Text/229.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-231" playOrder="231">
+      <navLabel>
+        <text>外传 ex4 最优纪行 后记</text>
+      </navLabel>
+      <content src="Text/230.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-232" playOrder="232">
+      <navLabel>
+        <text>外传 ex4 最优纪行 插图</text>
+      </navLabel>
+      <content src="Text/231.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-233" playOrder="233">
+      <navLabel>
+        <text>第二十卷 序章『月下狂想曲』</text>
+      </navLabel>
+      <content src="Text/232.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-234" playOrder="234">
+      <navLabel>
+        <text>第二十卷 第一章『丑恶的晚餐会』</text>
+      </navLabel>
+      <content src="Text/233.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-235" playOrder="235">
+      <navLabel>
+        <text>第二十卷 第二章『领域的被害者』</text>
+      </navLabel>
+      <content src="Text/234.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-236" playOrder="236">
+      <navLabel>
+        <text>第二十卷 第三章『战士的称赞』</text>
+      </navLabel>
+      <content src="Text/235.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-237" playOrder="237">
+      <navLabel>
+        <text>第二十卷 第四章『剑鬼恋歌──断章』</text>
+      </navLabel>
+      <content src="Text/236.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-238" playOrder="238">
+      <navLabel>
+        <text>第二十卷 第五章『特蕾希雅·范·阿斯特雷亚』</text>
+      </navLabel>
+      <content src="Text/237.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-239" playOrder="239">
+      <navLabel>
+        <text>第二十卷 第六章『朴利斯提拉攻防战结果』</text>
+      </navLabel>
+      <content src="Text/238.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-240" playOrder="240">
+      <navLabel>
+        <text>第二十卷 第七章『水面留下波纹』</text>
+      </navLabel>
+      <content src="Text/239.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-241" playOrder="241">
+      <navLabel>
+        <text>第二十卷 后记</text>
+      </navLabel>
+      <content src="Text/240.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-242" playOrder="242">
+      <navLabel>
+        <text>第二十卷 插图</text>
+      </navLabel>
+      <content src="Text/241.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-243" playOrder="243">
+      <navLabel>
+        <text>第二十一卷 序章『旅程途中』</text>
+      </navLabel>
+      <content src="Text/242.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-244" playOrder="244">
+      <navLabel>
+        <text>第二十一卷 第一章『带你出来的原因』</text>
+      </navLabel>
+      <content src="Text/243.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-245" playOrder="245">
+      <navLabel>
+        <text>第二十一卷 第二章『穿越沙时间吧！』</text>
+      </navLabel>
+      <content src="Text/244.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-246" playOrder="246">
+      <navLabel>
+        <text>第二十一卷 第三章『监视塔的洗礼』</text>
+      </navLabel>
+      <content src="Text/245.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-247" playOrder="247">
+      <navLabel>
+        <text>第二十一卷 第四章『沙上的信赖』</text>
+      </navLabel>
+      <content src="Text/246.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-248" playOrder="248">
+      <navLabel>
+        <text>第二十一卷 第五章『监视塔的守卫』</text>
+      </navLabel>
+      <content src="Text/247.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-249" playOrder="249">
+      <navLabel>
+        <text>第二十一卷 幕间『华丽猛虎·重装上阵』</text>
+      </navLabel>
+      <content src="Text/248.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-250" playOrder="250">
+      <navLabel>
+        <text>第二十一卷 后记</text>
+      </navLabel>
+      <content src="Text/249.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-251" playOrder="251">
+      <navLabel>
+        <text>第二十一卷 插图</text>
+      </navLabel>
+      <content src="Text/250.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-252" playOrder="252">
+      <navLabel>
+        <text>短篇集 6 『——隐世村落的鬼族姊妹Eｘ 祝福之日』</text>
+      </navLabel>
+      <content src="Text/251.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-253" playOrder="253">
+      <navLabel>
+        <text>短篇集 6 『三傻同行！被诅咒的女神像篇』</text>
+      </navLabel>
+      <content src="Text/252.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-254" playOrder="254">
+      <navLabel>
+        <text>短篇集 6 『魔女的下午茶茶会 魔女的条件』</text>
+      </navLabel>
+      <content src="Text/253.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-255" playOrder="255">
+      <navLabel>
+        <text>短篇集 6 后记</text>
+      </navLabel>
+      <content src="Text/254.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-256" playOrder="256">
+      <navLabel>
+        <text>短篇集 6 插图</text>
+      </navLabel>
+      <content src="Text/255.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-257" playOrder="257">
+      <navLabel>
+        <text>第二十二卷 第一章『大图书馆普莱迪斯』</text>
+      </navLabel>
+      <content src="Text/256.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-258" playOrder="258">
+      <navLabel>
+        <text>第二十二卷 第二章『白色星空的星群』</text>
+      </navLabel>
+      <content src="Text/257.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-259" playOrder="259">
+      <navLabel>
+        <text>第二十二卷 第三章『泰洁塔的书库』</text>
+      </navLabel>
+      <content src="Text/258.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-260" playOrder="260">
+      <navLabel>
+        <text>第二十二卷 第四章『挥棒的』</text>
+      </navLabel>
+      <content src="Text/259.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-261" playOrder="261">
+      <navLabel>
+        <text>第二十二卷 第五章『由里乌斯·尤克历乌斯』</text>
+      </navLabel>
+      <content src="Text/260.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-262" playOrder="262">
+      <navLabel>
+        <text>第二十二卷 第六章『同住塔内的建议』</text>
+      </navLabel>
+      <content src="Text/261.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-263" playOrder="263">
+      <navLabel>
+        <text>第二十二卷 第七章『■■■·■■■』</text>
+      </navLabel>
+      <content src="Text/262.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-264" playOrder="264">
+      <navLabel>
+        <text>第二十二卷 幕间『──古老记忆』</text>
+      </navLabel>
+      <content src="Text/263.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-265" playOrder="265">
+      <navLabel>
+        <text>第二十二卷 后记</text>
+      </navLabel>
+      <content src="Text/264.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-266" playOrder="266">
+      <navLabel>
+        <text>第二十二卷 插图</text>
+      </navLabel>
+      <content src="Text/265.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-267" playOrder="267">
+      <navLabel>
+        <text>第二十三卷 第一章『一走出便利商店，就到了神奇世界』</text>
+      </navLabel>
+      <content src="Text/266.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-268" playOrder="268">
+      <navLabel>
+        <text>第二十三卷 第二章『你是谁？』</text>
+      </navLabel>
+      <content src="Text/267.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-269" playOrder="269">
+      <navLabel>
+        <text>第二十三卷 第三章『残骸』</text>
+      </navLabel>
+      <content src="Text/268.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-270" playOrder="270">
+      <navLabel>
+        <text>第二十三卷 第四章『活人之塔』</text>
+      </navLabel>
+      <content src="Text/269.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-271" playOrder="271">
+      <navLabel>
+        <text>第二十三卷 幕间『梅莉·波特鲁特』</text>
+      </navLabel>
+      <content src="Text/270.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-272" playOrder="272">
+      <navLabel>
+        <text>第二十三卷 第五章『──杀人会变成一种习惯』</text>
+      </navLabel>
+      <content src="Text/271.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-273" playOrder="273">
+      <navLabel>
+        <text>第二十三卷 第六章『Re：从零开始的异世界生活』</text>
+      </navLabel>
+      <content src="Text/272.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-274" playOrder="274">
+      <navLabel>
+        <text>第二十三卷 后记</text>
+      </navLabel>
+      <content src="Text/273.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-275" playOrder="275">
+      <navLabel>
+        <text>第二十三卷 插图</text>
+      </navLabel>
+      <content src="Text/274.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-276" playOrder="276">
+      <navLabel>
+        <text>第二十四卷 第一章『静待雪融的你』</text>
+      </navLabel>
+      <content src="Text/275.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-277" playOrder="277">
+      <navLabel>
+        <text>第二十四卷 第二章『接下来的事』</text>
+      </navLabel>
+      <content src="Text/276.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-278" playOrder="278">
+      <navLabel>
+        <text>第二十四卷 第三章『──站起来』</text>
+      </navLabel>
+      <content src="Text/277.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-279" playOrder="279">
+      <navLabel>
+        <text>第二十四卷 第四章『第五个障碍』</text>
+      </navLabel>
+      <content src="Text/278.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-280" playOrder="280">
+      <navLabel>
+        <text>第二十四卷 第五章『不讲理的剑之铁锤』</text>
+      </navLabel>
+      <content src="Text/279.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-281" playOrder="281">
+      <navLabel>
+        <text>第二十四卷 第六章『专一之星』</text>
+      </navLabel>
+      <content src="Text/280.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-282" playOrder="282">
+      <navLabel>
+        <text>第二十四卷 后记</text>
+      </navLabel>
+      <content src="Text/281.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-283" playOrder="283">
+      <navLabel>
+        <text>第二十四卷 插图</text>
+      </navLabel>
+      <content src="Text/282.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-284" playOrder="284">
+      <navLabel>
+        <text>第二十五卷 第一章『■■·■』</text>
+      </navLabel>
+      <content src="Text/283.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-285" playOrder="285">
+      <navLabel>
+        <text>第二十五卷 第二章『菜月·昴』</text>
+      </navLabel>
+      <content src="Text/284.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-286" playOrder="286">
+      <navLabel>
+        <text>第二十五卷 第三章『露伊·亚尔聂博』</text>
+      </navLabel>
+      <content src="Text/285.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-287" playOrder="287">
+      <navLabel>
+        <text>第二十五卷 第四章『Ready Steady Go』</text>
+      </navLabel>
+      <content src="Text/286.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-288" playOrder="288">
+      <navLabel>
+        <text>第二十五卷 第五章『精神之死』</text>
+      </navLabel>
+      <content src="Text/287.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-289" playOrder="289">
+      <navLabel>
+        <text>第二十五卷 第六章『Good Loser』</text>
+      </navLabel>
+      <content src="Text/288.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-290" playOrder="290">
+      <navLabel>
+        <text>第二十五卷 第七章『拉姆』</text>
+      </navLabel>
+      <content src="Text/289.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-291" playOrder="291">
+      <navLabel>
+        <text>第二十五卷 第八章『──询问目的』</text>
+      </navLabel>
+      <content src="Text/290.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-292" playOrder="292">
+      <navLabel>
+        <text>第二十五卷 第九章『夏乌拉』</text>
+      </navLabel>
+      <content src="Text/291.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-293" playOrder="293">
+      <navLabel>
+        <text>第二十五卷 第十章『英雄』</text>
+      </navLabel>
+      <content src="Text/292.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-294" playOrder="294">
+      <navLabel>
+        <text>第二十五卷 后记</text>
+      </navLabel>
+      <content src="Text/293.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-295" playOrder="295">
+      <navLabel>
+        <text>第二十五卷 插图</text>
+      </navLabel>
+      <content src="Text/294.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-296" playOrder="296">
+      <navLabel>
+        <text>BD特典 从零开始的前日谭 隐世村的鬼姐妹 序章『无角的双子』</text>
+      </navLabel>
+      <content src="Text/295.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-297" playOrder="297">
+      <navLabel>
+        <text>BD特典 从零开始的前日谭 隐世村的鬼姐妹 第一章『烈焰之夜』</text>
+      </navLabel>
+      <content src="Text/296.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-298" playOrder="298">
+      <navLabel>
+        <text>BD特典 从零开始的前日谭 隐世村的鬼姐妹 第二章『高傲的鬼族』</text>
+      </navLabel>
+      <content src="Text/297.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-299" playOrder="299">
+      <navLabel>
+        <text>BD特典 从零开始的前日谭 隐世村的鬼姐妹 第三章『新生活与报复的开始』</text>
+      </navLabel>
+      <content src="Text/298.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-300" playOrder="300">
+      <navLabel>
+        <text>BD特典 从零开始的前日谭 隐世村的鬼姐妹 第四章『祝祭染上了血之华』</text>
+      </navLabel>
+      <content src="Text/299.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-301" playOrder="301">
+      <navLabel>
+        <text>BD特典 从零开始的前日谭 隐世村的鬼姐妹 第五章『哭泣的鬼』</text>
+      </navLabel>
+      <content src="Text/300.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-302" playOrder="302">
+      <navLabel>
+        <text>BD特典 从零开始的前日谭 隐世村的鬼姐妹 终章『小丑与共犯与代替品』</text>
+      </navLabel>
+      <content src="Text/301.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-303" playOrder="303">
+      <navLabel>
+        <text>BD特典 从零开始的前日谭 隐世村的鬼姐妹 后记</text>
+      </navLabel>
+      <content src="Text/302.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-304" playOrder="304">
+      <navLabel>
+        <text>BD特典 从零开始的前日谭 隐世村的鬼姐妹 插图</text>
+      </navLabel>
+      <content src="Text/303.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-305" playOrder="305">
+      <navLabel>
+        <text>BD特典 从零开始的前日谭 隐世村的鬼姐妹 外传『隐世村的鬼姐妹Ex 祝福之日《前篇》』</text>
+      </navLabel>
+      <content src="Text/304.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-306" playOrder="306">
+      <navLabel>
+        <text>BD特典 从零开始的前日谭 隐世村的鬼姐妹 外传『隐世村的鬼姐妹Ex 祝福之日《后篇》』</text>
+      </navLabel>
+      <content src="Text/305.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-307" playOrder="307">
+      <navLabel>
+        <text>BD特典 从零开始的前日谭 隐世村的鬼姐妹 短篇『隐世村的鬼姐妹，欢迎来到晚会』</text>
+      </navLabel>
+      <content src="Text/306.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-308" playOrder="308">
+      <navLabel>
+        <text>第二十六卷 序章『监视塔的众人』</text>
+      </navLabel>
+      <content src="Text/307.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-309" playOrder="309">
+      <navLabel>
+        <text>第二十六卷 第一章『洗礼』</text>
+      </navLabel>
+      <content src="Text/308.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-310" playOrder="310">
+      <navLabel>
+        <text>第二十六卷 第二章『有勇气的选择』</text>
+      </navLabel>
+      <content src="Text/309.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-311" playOrder="311">
+      <navLabel>
+        <text>第二十六卷 第三章『男人真命苦』</text>
+      </navLabel>
+      <content src="Text/310.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-312" playOrder="312">
+      <navLabel>
+        <text>第二十六卷 第四章『帝国风格』</text>
+      </navLabel>
+      <content src="Text/311.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-313" playOrder="313">
+      <navLabel>
+        <text>第二十六卷 第五章『佛拉基亚帝国』</text>
+      </navLabel>
+      <content src="Text/312.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-314" playOrder="314">
+      <navLabel>
+        <text>第二十六卷 后记</text>
+      </navLabel>
+      <content src="Text/313.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-315" playOrder="315">
+      <navLabel>
+        <text>第二十六卷 插图</text>
+      </navLabel>
+      <content src="Text/314.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-316" playOrder="316">
+      <navLabel>
+        <text>第二十七卷 第一章『想要守护的事物』</text>
+      </navLabel>
+      <content src="Text/315.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-317" playOrder="317">
+      <navLabel>
+        <text>第二十七卷 第二章『悄悄接近的戾气』</text>
+      </navLabel>
+      <content src="Text/316.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-318" playOrder="318">
+      <navLabel>
+        <text>第二十七卷 第三章『城郭都市瓜拉尔攻防战』</text>
+      </navLabel>
+      <content src="Text/317.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-319" playOrder="319">
+      <navLabel>
+        <text>第二十七卷 第四章『皇帝／商人／菜月·昴』</text>
+      </navLabel>
+      <content src="Text/318.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-320" playOrder="320">
+      <navLabel>
+        <text>第二十七卷 幕间『迪克尔·奥斯曼』</text>
+      </navLabel>
+      <content src="Text/319.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-321" playOrder="321">
+      <navLabel>
+        <text>第二十七卷 第五章『乐师夏美·舒瓦兹』</text>
+      </navLabel>
+      <content src="Text/320.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-322" playOrder="322">
+      <navLabel>
+        <text>第二十七卷 第六章『桀骜不逊之红』</text>
+      </navLabel>
+      <content src="Text/321.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-323" playOrder="323">
+      <navLabel>
+        <text>第二十七卷 后记</text>
+      </navLabel>
+      <content src="Text/322.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-324" playOrder="324">
+      <navLabel>
+        <text>第二十七卷 插图</text>
+      </navLabel>
+      <content src="Text/323.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-325" playOrder="325">
+      <navLabel>
+        <text>外传 ex5 绯色姬谭 『红莲残影』</text>
+      </navLabel>
+      <content src="Text/324.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-326" playOrder="326">
+      <navLabel>
+        <text>外传 ex5 绯色姬谭 『赫炎剑狼』</text>
+      </navLabel>
+      <content src="Text/325.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-327" playOrder="327">
+      <navLabel>
+        <text>外传 ex5 绯色姬谭 『绯色别离』</text>
+      </navLabel>
+      <content src="Text/326.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-328" playOrder="328">
+      <navLabel>
+        <text>外传 ex5 绯色姬谭 后记</text>
+      </navLabel>
+      <content src="Text/327.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-329" playOrder="329">
+      <navLabel>
+        <text>外传 ex5 绯色姬谭 插图</text>
+      </navLabel>
+      <content src="Text/328.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-330" playOrder="330">
+      <navLabel>
+        <text>第二十八卷 第一章『重逢宛如燃烧的血潮』</text>
+      </navLabel>
+      <content src="Text/329.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-331" playOrder="331">
+      <navLabel>
+        <text>第二十八卷 幕间『有的东西，和没有的东西』</text>
+      </navLabel>
+      <content src="Text/330.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-332" playOrder="332">
+      <navLabel>
+        <text>第二十八卷 第二章『自称的英雄菜月·昴』</text>
+      </navLabel>
+      <content src="Text/331.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-333" playOrder="333">
+      <navLabel>
+        <text>第二十八卷 第三章『该前进的道路』</text>
+      </navLabel>
+      <content src="Text/332.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-334" playOrder="334">
+      <navLabel>
+        <text>第二十八卷 第四章『混沌的魔都』</text>
+      </navLabel>
+      <content src="Text/333.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-335" playOrder="335">
+      <navLabel>
+        <text>第二十八卷 第五章『睽违八年的奖赏』</text>
+      </navLabel>
+      <content src="Text/334.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-336" playOrder="336">
+      <navLabel>
+        <text>第二十八卷 后记</text>
+      </navLabel>
+      <content src="Text/335.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-337" playOrder="337">
+      <navLabel>
+        <text>第二十八卷 插图</text>
+      </navLabel>
+      <content src="Text/336.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-338" playOrder="338">
+      <navLabel>
+        <text>第二十九卷 第一章『野心之兽』</text>
+      </navLabel>
+      <content src="Text/337.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-339" playOrder="339">
+      <navLabel>
+        <text>第二十九卷 第二章『眼皮子底下』</text>
+      </navLabel>
+      <content src="Text/338.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-340" playOrder="340">
+      <navLabel>
+        <text>第二十九卷 第三章『魂婚』</text>
+      </navLabel>
+      <content src="Text/339.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-341" playOrder="341">
+      <navLabel>
+        <text>第二十九卷 第四章『不会消失的■■』</text>
+      </navLabel>
+      <content src="Text/340.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-342" playOrder="342">
+      <navLabel>
+        <text>第二十九卷 第五章『命中注定』</text>
+      </navLabel>
+      <content src="Text/341.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-343" playOrder="343">
+      <navLabel>
+        <text>第二十九卷 第六章『爱慕之情不会退让』</text>
+      </navLabel>
+      <content src="Text/342.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-344" playOrder="344">
+      <navLabel>
+        <text>第二十九卷 第七章『十一秒之后』</text>
+      </navLabel>
+      <content src="Text/343.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-345" playOrder="345">
+      <navLabel>
+        <text>第二十九卷 第八章『桃花源卡欧斯弗莱姆』</text>
+      </navLabel>
+      <content src="Text/344.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-346" playOrder="346">
+      <navLabel>
+        <text>第二十九卷 幕间『覆盖苍穹』</text>
+      </navLabel>
+      <content src="Text/345.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-347" playOrder="347">
+      <navLabel>
+        <text>第二十九卷 后记</text>
+      </navLabel>
+      <content src="Text/346.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-348" playOrder="348">
+      <navLabel>
+        <text>第二十九卷 插图</text>
+      </navLabel>
+      <content src="Text/347.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-349" playOrder="349">
+      <navLabel>
+        <text>第三十卷 第一章『魔都狂骚曲』</text>
+      </navLabel>
+      <content src="Text/348.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-350" playOrder="350">
+      <navLabel>
+        <text>第三十卷 第二章『聪明人活不下去』</text>
+      </navLabel>
+      <content src="Text/349.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-351" playOrder="351">
+      <navLabel>
+        <text>第三十卷 第三章『塔立塔·貅德拉格』</text>
+      </navLabel>
+      <content src="Text/350.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-352" playOrder="352">
+      <navLabel>
+        <text>第三十卷 第四章『城郭都市狂骚曲』</text>
+      </navLabel>
+      <content src="Text/351.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-353" playOrder="353">
+      <navLabel>
+        <text>第三十卷 第五章『被叫大笨蛋也无所谓』</text>
+      </navLabel>
+      <content src="Text/352.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-354" playOrder="354">
+      <navLabel>
+        <text>第三十卷 第六章『浮洛普·奥康奈尔』</text>
+      </navLabel>
+      <content src="Text/353.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-355" playOrder="355">
+      <navLabel>
+        <text>第三十卷 幕间『帝国狂骚序曲』</text>
+      </navLabel>
+      <content src="Text/354.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-356" playOrder="356">
+      <navLabel>
+        <text>第三十卷 后记</text>
+      </navLabel>
+      <content src="Text/355.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-357" playOrder="357">
+      <navLabel>
+        <text>第三十卷 后记</text>
+      </navLabel>
+      <content src="Text/356.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-358" playOrder="358">
+      <navLabel>
+        <text>第三十卷 插图</text>
+      </navLabel>
+      <content src="Text/357.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-359" playOrder="359">
+      <navLabel>
+        <text>第三十一卷 第一章『斯巴尔卡』</text>
+      </navLabel>
+      <content src="Text/358.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-360" playOrder="360">
+      <navLabel>
+        <text>第三十一卷 第二章『魔法语言』</text>
+      </navLabel>
+      <content src="Text/359.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-361" playOrder="361">
+      <navLabel>
+        <text>第三十一卷 第三章『希艾因·亚兹』</text>
+      </navLabel>
+      <content src="Text/360.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-362" playOrder="362">
+      <navLabel>
+        <text>第三十一卷 第四章『来自帝都』</text>
+      </navLabel>
+      <content src="Text/361.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-363" playOrder="363">
+      <navLabel>
+        <text>第三十一卷 第五章『魏兹·罗根』</text>
+      </navLabel>
+      <content src="Text/362.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-364" playOrder="364">
+      <navLabel>
+        <text>第三十一卷 第六章『伊多拉·米桑轧』</text>
+      </navLabel>
+      <content src="Text/363.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-365" playOrder="365">
+      <navLabel>
+        <text>第三十一卷 第七章『I know』</text>
+      </navLabel>
+      <content src="Text/364.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-366" playOrder="366">
+      <navLabel>
+        <text>第三十一卷 后记</text>
+      </navLabel>
+      <content src="Text/365.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-367" playOrder="367">
+      <navLabel>
+        <text>第三十一卷 插图</text>
+      </navLabel>
+      <content src="Text/366.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-368" playOrder="368">
+      <navLabel>
+        <text>第三十二卷 序章『于帝都邂逅』</text>
+      </navLabel>
+      <content src="Text/367.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-369" playOrder="369">
+      <navLabel>
+        <text>第三十二卷 第一章『命运的恶作剧』</text>
+      </navLabel>
+      <content src="Text/368.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-370" playOrder="370">
+      <navLabel>
+        <text>第三十二卷 第二章『爱丽丝与荆棘之王』</text>
+      </navLabel>
+      <content src="Text/369.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-371" playOrder="371">
+      <navLabel>
+        <text>第三十二卷 幕间『女杰与小丑』</text>
+      </navLabel>
+      <content src="Text/370.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-372" playOrder="372">
+      <navLabel>
+        <text>第三十二卷 第三章『友人』</text>
+      </navLabel>
+      <content src="Text/371.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-373" playOrder="373">
+      <navLabel>
+        <text>第三十二卷 第四章『五个顶点』</text>
+      </navLabel>
+      <content src="Text/372.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-374" playOrder="374">
+      <navLabel>
+        <text>第三十二卷 第五章『突破口』</text>
+      </navLabel>
+      <content src="Text/373.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-375" playOrder="375">
+      <navLabel>
+        <text>第三十二卷 第六章『卡夫马·依鲁鲁库斯』</text>
+      </navLabel>
+      <content src="Text/374.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-376" playOrder="376">
+      <navLabel>
+        <text>第三十二卷 第七章『顶点决战』</text>
+      </navLabel>
+      <content src="Text/375.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-377" playOrder="377">
+      <navLabel>
+        <text>第三十二卷 第八章『顶点楚歌』</text>
+      </navLabel>
+      <content src="Text/376.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-378" playOrder="378">
+      <navLabel>
+        <text>第三十二卷 第九章『以深爱描写』</text>
+      </navLabel>
+      <content src="Text/377.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-379" playOrder="379">
+      <navLabel>
+        <text>第三十二卷 后记</text>
+      </navLabel>
+      <content src="Text/378.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-380" playOrder="380">
+      <navLabel>
+        <text>第三十二卷 插图</text>
+      </navLabel>
+      <content src="Text/379.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-381" playOrder="381">
+      <navLabel>
+        <text>短篇集 7 『Lugunican Papers』</text>
+      </navLabel>
+      <content src="Text/380.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-382" playOrder="382">
+      <navLabel>
+        <text>短篇集 7 『Sword Identity』</text>
+      </navLabel>
+      <content src="Text/381.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-383" playOrder="383">
+      <navLabel>
+        <text>短篇集 7 『绯色联盟』</text>
+      </navLabel>
+      <content src="Text/382.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-384" playOrder="384">
+      <navLabel>
+        <text>短篇集 7 后记</text>
+      </navLabel>
+      <content src="Text/383.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-385" playOrder="385">
+      <navLabel>
+        <text>短篇集 7 插图</text>
+      </navLabel>
+      <content src="Text/384.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-386" playOrder="386">
+      <navLabel>
+        <text>第三十三卷 第一章『普莱迪斯战团』</text>
+      </navLabel>
+      <content src="Text/385.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-387" playOrder="387">
+      <navLabel>
+        <text>第三十三卷 第二章『顶点万化』</text>
+      </navLabel>
+      <content src="Text/386.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-388" playOrder="388">
+      <navLabel>
+        <text>第三十三卷 第三章『顶点乱麻』</text>
+      </navLabel>
+      <content src="Text/387.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-389" playOrder="389">
+      <navLabel>
+        <text>第三十三卷 第四章『奇夏·哥尔特』</text>
+      </navLabel>
+      <content src="Text/388.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-390" playOrder="390">
+      <navLabel>
+        <text>第三十三卷 第五章『帝国的剑狼』</text>
+      </navLabel>
+      <content src="Text/389.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-391" playOrder="391">
+      <navLabel>
+        <text>第三十三卷 幕间『祝词』</text>
+      </navLabel>
+      <content src="Text/390.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-392" playOrder="392">
+      <navLabel>
+        <text>第三十三卷 后记</text>
+      </navLabel>
+      <content src="Text/391.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-393" playOrder="393">
+      <navLabel>
+        <text>第三十三卷 插图</text>
+      </navLabel>
+      <content src="Text/392.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-394" playOrder="394">
+      <navLabel>
+        <text>短篇集 8 『Stand by me Pleiades』</text>
+      </navLabel>
+      <content src="Text/393.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-395" playOrder="395">
+      <navLabel>
+        <text>短篇集 8 『Stand by me Pleiades 浪子回乡』</text>
+      </navLabel>
+      <content src="Text/394.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-396" playOrder="396">
+      <navLabel>
+        <text>短篇集 8 『Stand by me Pleiades 佩特拉的男子汉交涉』</text>
+      </navLabel>
+      <content src="Text/395.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-397" playOrder="397">
+      <navLabel>
+        <text>短篇集 8 『Stand by me Pleiades 法兰黛莉卡的血之新娘』</text>
+      </navLabel>
+      <content src="Text/396.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-398" playOrder="398">
+      <navLabel>
+        <text>短篇集 8 『Poltergeist Story』</text>
+      </navLabel>
+      <content src="Text/397.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-399" playOrder="399">
+      <navLabel>
+        <text>短篇集 8 『Very Very Rough Justice』</text>
+      </navLabel>
+      <content src="Text/398.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-400" playOrder="400">
+      <navLabel>
+        <text>短篇集 8 后记</text>
+      </navLabel>
+      <content src="Text/399.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-401" playOrder="401">
+      <navLabel>
+        <text>短篇集 8 插图</text>
+      </navLabel>
+      <content src="Text/400.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-402" playOrder="402">
+      <navLabel>
+        <text>第三十四卷 第一章『原谅』</text>
+      </navLabel>
+      <content src="Text/401.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-403" playOrder="403">
+      <navLabel>
+        <text>第三十四卷 第二章『不会乞求原谅』</text>
+      </navLabel>
+      <content src="Text/402.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-404" playOrder="404">
+      <navLabel>
+        <text>第三十四卷 幕间『陶德·方克』</text>
+      </navLabel>
+      <content src="Text/403.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-405" playOrder="405">
+      <navLabel>
+        <text>第三十四卷 第三章『决定要去爱』</text>
+      </navLabel>
+      <content src="Text/404.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-406" playOrder="406">
+      <navLabel>
+        <text>第三十四卷 第四章『菜月·昴和文森·亚伯克斯』</text>
+      </navLabel>
+      <content src="Text/405.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-407" playOrder="407">
+      <navLabel>
+        <text>第三十四卷 第五章『王国与帝国』</text>
+      </navLabel>
+      <content src="Text/406.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-408" playOrder="408">
+      <navLabel>
+        <text>第三十四卷 后记</text>
+      </navLabel>
+      <content src="Text/407.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-409" playOrder="409">
+      <navLabel>
+        <text>第三十四卷 插图</text>
+      </navLabel>
+      <content src="Text/408.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-410" playOrder="410">
+      <navLabel>
+        <text>第三十五卷 第一章『尸人灾害』</text>
+      </navLabel>
+      <content src="Text/409.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-411" playOrder="411">
+      <navLabel>
+        <text>第三十五卷 第二章『巴尔加·克罗姆威尔的计策』</text>
+      </navLabel>
+      <content src="Text/410.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-412" playOrder="412">
+      <navLabel>
+        <text>第三十五卷 第三章『两道光芒』</text>
+      </navLabel>
+      <content src="Text/411.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-413" playOrder="413">
+      <navLabel>
+        <text>第三十五卷 第四章『露伊』</text>
+      </navLabel>
+      <content src="Text/412.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-414" playOrder="414">
+      <navLabel>
+        <text>第三十五卷 第五章『将死之人的愿望』</text>
+      </navLabel>
+      <content src="Text/413.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-415" playOrder="415">
+      <navLabel>
+        <text>第三十五卷 第六章『贝尔斯特兹·彭达冯』</text>
+      </navLabel>
+      <content src="Text/414.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-416" playOrder="416">
+      <navLabel>
+        <text>第三十五卷 第七章『帝国的姊妹』</text>
+      </navLabel>
+      <content src="Text/415.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-417" playOrder="417">
+      <navLabel>
+        <text>第三十五卷 后记</text>
+      </navLabel>
+      <content src="Text/416.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-418" playOrder="418">
+      <navLabel>
+        <text>第三十五卷 插图</text>
+      </navLabel>
+      <content src="Text/417.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-419" playOrder="419">
+      <navLabel>
+        <text>第三十六卷 序章『不想爱了』</text>
+      </navLabel>
+      <content src="Text/418.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-420" playOrder="420">
+      <navLabel>
+        <text>第三十六卷 第一章『石块』</text>
+      </navLabel>
+      <content src="Text/419.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-421" playOrder="421">
+      <navLabel>
+        <text>第三十六卷 第二章『不解释清楚的话就不原谅你』</text>
+      </navLabel>
+      <content src="Text/420.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-422" playOrder="422">
+      <navLabel>
+        <text>第三十六卷 第三章『尸都禄普加纳』</text>
+      </navLabel>
+      <content src="Text/421.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-423" playOrder="423">
+      <navLabel>
+        <text>第三十六卷 幕间『劳安·塞格姆多』</text>
+      </navLabel>
+      <content src="Text/422.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-424" playOrder="424">
+      <navLabel>
+        <text>第三十六卷 第四章『笑着的超规格』</text>
+      </navLabel>
+      <content src="Text/423.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-425" playOrder="425">
+      <navLabel>
+        <text>第三十六卷 第五章『伟大的奴隶』</text>
+      </navLabel>
+      <content src="Text/424.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-426" playOrder="426">
+      <navLabel>
+        <text>第三十六卷 第六章『有事过问那眼泪』</text>
+      </navLabel>
+      <content src="Text/425.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-427" playOrder="427">
+      <navLabel>
+        <text>第三十六卷 幕间『乌比克』</text>
+      </navLabel>
+      <content src="Text/426.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-428" playOrder="428">
+      <navLabel>
+        <text>第三十六卷 后记</text>
+      </navLabel>
+      <content src="Text/427.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-429" playOrder="429">
+      <navLabel>
+        <text>第三十六卷 插图</text>
+      </navLabel>
+      <content src="Text/428.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-430" playOrder="430">
+      <navLabel>
+        <text>第三十七卷 第一章『击落星星的方法』</text>
+      </navLabel>
+      <content src="Text/429.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-431" playOrder="431">
+      <navLabel>
+        <text>第三十七卷 第二章『貚纱』</text>
+      </navLabel>
+      <content src="Text/430.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-432" playOrder="432">
+      <navLabel>
+        <text>第三十七卷 第三章『尤加尔德·佛拉基亚』</text>
+      </navLabel>
+      <content src="Text/431.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-433" playOrder="433">
+      <navLabel>
+        <text>第三十七卷 第四章『米蒂安·奥康奈尔』</text>
+      </navLabel>
+      <content src="Text/432.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-434" playOrder="434">
+      <navLabel>
+        <text>第三十七卷 第五章『玛德琳·恩夏尔德』</text>
+      </navLabel>
+      <content src="Text/433.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-435" playOrder="435">
+      <navLabel>
+        <text>第三十七卷 幕间『亚拉基亚』</text>
+      </navLabel>
+      <content src="Text/434.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-436" playOrder="436">
+      <navLabel>
+        <text>第三十七卷 第六章『瑟希鲁斯·塞格姆多』</text>
+      </navLabel>
+      <content src="Text/435.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-437" playOrder="437">
+      <navLabel>
+        <text>第三十七卷 第七章『史芬克丝』</text>
+      </navLabel>
+      <content src="Text/436.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-438" playOrder="438">
+      <navLabel>
+        <text>第三十七卷 幕间『魔女』</text>
+      </navLabel>
+      <content src="Text/437.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-439" playOrder="439">
+      <navLabel>
+        <text>第三十七卷 后记</text>
+      </navLabel>
+      <content src="Text/438.html"/>
+    </navPoint>
+    
+    <navPoint id="navPoint-440" playOrder="440">
+      <navLabel>
+        <text>第三十七卷 插图</text>
+      </navLabel>
+      <content src="Text/439.html"/>
+    </navPoint>
+    
+  </navMap>
+</ncx>
