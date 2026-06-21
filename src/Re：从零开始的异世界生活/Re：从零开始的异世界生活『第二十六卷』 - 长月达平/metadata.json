@@ -1,0 +1,67 @@
+{
+  "title": "Re：从零开始的异世界生活『第二十六卷』",
+  "author": "长月达平",
+  "publisher": "KADOKAWA",
+  "date": "2014-06-12 00:00:00",
+  "language": "zh",
+  "identifier": {
+    "type": "isbn",
+    "value": "978-7-5749-0188-9"
+  },
+  "description": "《Re:从零开始的异世界生活》，简称《Re:Zero》，是由长月达平撰写，大冢真一郎绘图的日本轻小说作品。故事以一名从便利店回家的途中突然发现自己来到了异世界的蛰居族菜月昴为中心。该作品最初于2012年4月起在投稿网站“成为小说家吧”连载，后来在2014年经由KADOKAWA旗下的MF文库J整理出版。",
+  "cover": "image/cover.png",
+  "spine": [
+    "text/chapter_cover.xhtml",
+    "text/chapter_color_figs.xhtml",
+    "text/chapter_toc.xhtml",
+    "text/chapter_0.xhtml",
+    "text/chapter_1.xhtml",
+    "text/chapter_2.xhtml",
+    "text/chapter_3.xhtml",
+    "text/chapter_4.xhtml",
+    "text/chapter_5.xhtml",
+    "text/chapter_appendix.xhtml"
+  ],
+  "toc": [
+    {
+      "text": "封面",
+      "src": "text/chapter_cover.xhtml"
+    },
+    {
+      "text": "彩插",
+      "src": "text/chapter_color_figs.xhtml"
+    },
+    {
+      "text": "目录",
+      "src": "text/chapter_toc.xhtml"
+    },
+    {
+      "text": "序章『监视塔的众人』",
+      "src": "text/chapter_0.xhtml"
+    },
+    {
+      "text": "第一章『洗礼』",
+      "src": "text/chapter_1.xhtml"
+    },
+    {
+      "text": "第二章『有勇气的选择』",
+      "src": "text/chapter_2.xhtml"
+    },
+    {
+      "text": "第三章『男人真命苦』",
+      "src": "text/chapter_3.xhtml"
+    },
+    {
+      "text": "第四章『帝国风格』",
+      "src": "text/chapter_4.xhtml"
+    },
+    {
+      "text": "第五章『佛拉基亚帝国』",
+      "src": "text/chapter_5.xhtml"
+    },
+    {
+      "text": "附录",
+      "src": "text/chapter_appendix.xhtml"
+    }
+  ]
+}
