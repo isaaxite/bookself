@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:publisher>伯顿·G.马尔基尔</dc:publisher>
+    <dc:title>漫步华尔街（原书第13版）</dc:title>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">90861a10-05e2-4597-9b45-7c88c008467a</dc:identifier>
+    <dc:contributor opf:role="bkp">伯顿·G.马尔基尔</dc:contributor>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">伯顿·G.马尔基尔</dc:creator>
+    <dc:language>zh</dc:language>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="2024-09-28T03:29:29+00:00"/>
+    <dc:description>投资大咖反复推荐的投资经典书籍之一。</dc:description>
+  </metadata>
+  <manifest>
+    <item href="converter-master/example/313189/cover_313189.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/summary.html" id="summary" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/1.html" id="45e7e0a6591d2adf6879d03bcbcf3a75" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/2.html" id="0b5f6d24e6d16fae76fb77927fa98bae" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/3.html" id="eeb635fb99eaa5a15df573d3f4da2f93" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/4.html" id="14654d0dcbf6662283ba76819b73cd1d" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/5.html" id="46a77627ab776d5f1b7b39fccd978887" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/6.html" id="c8b1d594f6b0d2552d9eb8675daeeee1" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/7.html" id="79192d77b4800c460f7f56d94eddc87b" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/8.html" id="747d6974b181d47b1f549018498dcd5f" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/9.html" id="8156cb1e12358bbccdd9b4498b29afce" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/10.html" id="944ae34e2cd167265acda9e1212c63c1" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/11.html" id="e47b652b4be113059659c771a9795395" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/12.html" id="a0dbe4dea73a1bfdd7c121cda6eb4508" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/13.html" id="860010a208470be0384eea35b28e1fd6" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/14.html" id="3c31e995e39f5c7f919167b0d10070b5" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/15.html" id="904e7809586a033c65967669e7bf61b2" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/16.html" id="47cf8cdbb8806a40365eca369d4c5ff5" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/17.html" id="7de5f451267adc01c59409cf067b0eb7" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/18.html" id="a11bdd8d1b9d32d9b9a52266a7dcb56b" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/19.html" id="012aa6573dff2d85798efb5262171d2e" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/20.html" id="f594a3e2322cf4704acbe67814cecd84" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/21.html" id="2c54dd4f6d3b8154f30f974cfd3446ef" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/22.html" id="ee4c366e7e0753d6cc40cd16c4b091d5" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/23.html" id="4b704fd5fbe8fab2a49da8f8c8694310" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/24.html" id="670c8760f5663e631342861ad8b9078a" media-type="application/xhtml+xml"/>
+    <item href="converter-master/example/313189/content_51762_0.jpg" id="9bbacc63ccec05640ba9bbd3062e6fbf" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51762_1.jpg" id="3a56fa13d0616ac18f3920c092a2bcf4" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51766_0.jpg" id="4ae8c7616a0d22c531371481a8b56993" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51766_1.jpg" id="3179a7b2fc20257100d47c56cb6b6f26" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51767_0.jpg" id="6b09d8e6aa32f12b0ddc79683154fd8b" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51767_3.jpg" id="609a6f8e50df8a171273e681290f8906" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51767_6.jpg" id="08e14198c2488062692abc92d2dc3fc9" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51768_0.jpg" id="d18b25abc6688429233eb93e2d20ac9a" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51768_1.jpg" id="6412b11eefcc57dd86c2a4f91c9665cc" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51768_2.jpg" id="0df18614645ed2a63b49efcbf4293fa5" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51768_3.jpg" id="6638f8b03d449f32653f54d06d0de709" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51768_4.jpg" id="0244e6a8bad9ada63c3a00e57916fcb1" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51768_5.jpg" id="88f378eac119482cebb34f402d5d0f5c" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51769_0.jpg" id="8a71964cc74092080aaa88cd4b026143" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51769_1.jpg" id="00ecb503fbf66bfd5246c76e218d7e7e" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51769_2.jpg" id="09187ce18e4ad1b51ba3b06866254fe8" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51771_0.jpg" id="2c348ef3b1e98ea5c971b6e0c6544444" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51771_2.jpg" id="b09e619e53a067f4cef554b80992f132" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51771_3.jpg" id="8cbdf3ef7445f89de2da45851841f23d" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51771_5.jpg" id="1db6103d81fe8c9245e938a2f8c16709" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51771_7.jpg" id="5d8c21d047a15cf0544ac4fd75142c8e" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51771_8.jpg" id="8875ecd0d7bc0a054be8613178ae0629" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51772_0.jpg" id="7705b8df9a8a627745fbb711eac52cb8" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51772_1.jpg" id="f6ef49fccceed91829335de6bc756a05" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51773_0.jpg" id="0250fc31b92a22ff094cb32f65a54ce7" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51775_0.jpg" id="17cc893fa454d834da4fc258e953408e" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51775_1.jpg" id="0114b05e1bc0ebcec810d28f22bb502e" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51775_2.jpg" id="49dda89aad33e4279cdbdf35cac12abc" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51775_3.jpg" id="a476b45966f17e8f1021e05d75512488" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51776_0.jpeg" id="f083ea04bbff11f123e8a073cb722724" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51776_1.jpeg" id="3c8ba1936081a8165629d9fb516eabb0" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51776_2.jpg" id="9ad2d448cbbf42771ae25cb72cdad36c" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51776_3.jpeg" id="5d0e86f0df327ec5bd9de6c226a8c783" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51776_4.jpeg" id="31479ea580034ee8299b3aefa5289cfb" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51776_6.jpeg" id="abd161c88d182d5ba1737f72d3ae381a" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51776_7.jpeg" id="cf0b5e7936612ece5f9d6451b2b2a578" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51777_0.jpg" id="aa031e86e0e7dccf6823a00cfe4c416d" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51778_0.jpg" id="88b09c4232609ca21e7bf57b769201b9" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51778_1.jpg" id="811a91ef16668f2c26002bb3e70b7d58" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51778_2.jpg" id="29e800ea23882863481488a791910883" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51778_3.jpg" id="bd0934b4d07504a22b1457cbec5ecda3" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51778_4.jpg" id="27770faa4e75b5d1aab52d929ee05f9d" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51778_6.jpeg" id="f61b92680b23f911a341a097115412bc" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51778_7.jpeg" id="d77fdcdc0dac0b5898d8437a5df51ffe" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51778_9.jpg" id="1c8f409ba9b077134d2492a16fc1fa10" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51780_0.jpg" id="4731b4cba1d66fe7b8e498a76418f805" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51780_8.jpg" id="a4ffdef4873396d72f1d9b9377eb5a0e" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51780_9.jpg" id="d3634a05a8be0bde78c42e01076ce8d9" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51780_10.jpg" id="b86194c194becb743f9fdb7b071ff111" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51780_13.jpg" id="8bdd0977c4e9de5ef3b0d6d4bf27b8dc" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51781_0.jpg" id="e45dd24e2e193a5a157f16e4bc1ece53" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51781_0.svg" id="e45dd24e2e193a5a157f16e4bc1ece53-1" media-type="image/svg+xml"/>
+    <item href="converter-master/example/313189/content_51781_3.jpeg" id="4ea4b1175660aa3c33e1aae4cd898266" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51781_4.jpeg" id="69df71d9da22de1b2bad73271cfd4677" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51781_5.jpeg" id="1658255516f5851a79cd8a61fcc1c336" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51781_10.jpeg" id="987c8df42cc410d3fb3f2cee7649286d" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51781_11.jpeg" id="d387c5339347f4c2805b12cdfe3ad3bc" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51782_0.jpg" id="64feefc73a91ada32dce7b9d063c2442" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51782_1.jpg" id="8c6e65e0099b2ebf128a8d4eddc2f0ed" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51782_2.jpg" id="6db733239218934c365239a062c6e4f2" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51782_3.jpg" id="b6fcaa60c815a431fb029d315826f2ef" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51782_4.jpg" id="9dbb24049f46305fb068927f4749e6cc" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51782_5.jpg" id="b800fef8682a85112c7bccff0b42bd57" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51782_6.jpg" id="1a576a094c87f7775988c1607ed6f8cf" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51782_7.jpg" id="e92af7431727bf9d1bf56985a611cc6f" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51782_8.jpg" id="1fc1ae7dffbbd01be9a65d4449594d78" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51782_9.jpg" id="91f1fec4d73e029368d3c31db0729bd1" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51782_10.jpg" id="40bad85add236cd6959f78a1c1f601c8" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51783_0.jpg" id="70b11ea86941ace8c5ae0bbb50ad4e74" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51783_1.jpg" id="1a89fb3571f5933396047fbf81654827" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51783_2.jpg" id="18732ea993252841eb2b7d2bcee61dc2" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51783_4.jpg" id="eabe8944a94301b859e196277c0b345c" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51783_5.jpg" id="9948b340861894a5ea582eddac9b5c08" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51785_0.jpg" id="797daa3ede7d381c088dde087728960a" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51785_1.jpg" id="8d9ae3a244b892cc18391542fd67b507" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51785_2.jpg" id="cd1dd5423f3f4d4bcf2a5e3d9c44f04d" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51785_3.jpg" id="20672bbe46c2b658df94ed4eba24ebf5" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51785_4.jpg" id="561f3f92eb1f63708dc2cd934622b76d" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51785_5.jpg" id="c685062c095b0ee7f8a446eb7e00ffea" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51785_6.jpg" id="b40352779bfad52519ae7cdcda3c17e8" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51785_7.jpg" id="ed1888d4fd4cf779b12835867653cb12" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51785_8.jpg" id="657bd14a479fee1216250e8c52512636" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51785_9.jpg" id="0ab5694b7accfd1b69c07ca5acb9e593" media-type="image/jpeg"/>
+    <item href="converter-master/example/313189/content_51785_10.jpg" id="11fa7e07864cf5113e3a3bd90b0fba2d" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="page_styles1.css" id="page_css1" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="summary"/>
+    <itemref idref="45e7e0a6591d2adf6879d03bcbcf3a75"/>
+    <itemref idref="0b5f6d24e6d16fae76fb77927fa98bae"/>
+    <itemref idref="eeb635fb99eaa5a15df573d3f4da2f93"/>
+    <itemref idref="14654d0dcbf6662283ba76819b73cd1d"/>
+    <itemref idref="46a77627ab776d5f1b7b39fccd978887"/>
+    <itemref idref="c8b1d594f6b0d2552d9eb8675daeeee1"/>
+    <itemref idref="79192d77b4800c460f7f56d94eddc87b"/>
+    <itemref idref="747d6974b181d47b1f549018498dcd5f"/>
+    <itemref idref="8156cb1e12358bbccdd9b4498b29afce"/>
+    <itemref idref="944ae34e2cd167265acda9e1212c63c1"/>
+    <itemref idref="e47b652b4be113059659c771a9795395"/>
+    <itemref idref="a0dbe4dea73a1bfdd7c121cda6eb4508"/>
+    <itemref idref="860010a208470be0384eea35b28e1fd6"/>
+    <itemref idref="3c31e995e39f5c7f919167b0d10070b5"/>
+    <itemref idref="904e7809586a033c65967669e7bf61b2"/>
+    <itemref idref="47cf8cdbb8806a40365eca369d4c5ff5"/>
+    <itemref idref="7de5f451267adc01c59409cf067b0eb7"/>
+    <itemref idref="a11bdd8d1b9d32d9b9a52266a7dcb56b"/>
+    <itemref idref="012aa6573dff2d85798efb5262171d2e"/>
+    <itemref idref="f594a3e2322cf4704acbe67814cecd84"/>
+    <itemref idref="2c54dd4f6d3b8154f30f974cfd3446ef"/>
+    <itemref idref="ee4c366e7e0753d6cc40cd16c4b091d5"/>
+    <itemref idref="4b704fd5fbe8fab2a49da8f8c8694310"/>
+    <itemref idref="670c8760f5663e631342861ad8b9078a"/>
+  </spine>
+  <guide>
+    <reference href="converter-master/example/313189/titlepage.xhtml" title="Title Page" type="other.titlepage"/>
+    <reference href="converter-master/example/313189/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

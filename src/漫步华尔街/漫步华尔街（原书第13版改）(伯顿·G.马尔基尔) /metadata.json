@@ -1,0 +1,145 @@
+{
+  "title": "漫步华尔街（原书第13版）",
+  "name": "漫步华尔街（原书第13版）（排版参考第12版）",
+  "author": "伯顿·G.马尔基尔",
+  "publisher": "机械工业出版社",
+  "date": "2024-03-01 00:00:00",
+  "language": "zh",
+  "identifier": {
+    "type": "isbn",
+    "value": "9787111753506"
+  },
+  "description": "作为一部畅销世界已40多年的经典之作，本书的*大特色就是与时俱进，第11版从头至尾新增了很多有价值的新材料，以探讨交易型开放式指数基金和一些投资机会，包括新兴市场尤其是中国的投资机会，并以全新一章讨论了“聪明的β”这一新投资策略存在的陷阱和前景。 马尔基尔既是杰出的专业投资者，又是造诣精深的经济学家。在本书中，他将投资理论与实践水乳交融地结合在一起，由坚实基础理论和空中楼阁理论引出基本面分析和技术分析，同时讲述了金融史上著名的投资泡沫和投机狂潮，文字优雅、流畅，写作既学术又通俗，既深入浅出又令人信服，一步步引导读者满怀信心地跨越市场。",
+  "cover": "image/cover.jpg",
+  "spine": [
+    "text/cover_page.xhtml",
+    "text/toc.xhtml",
+    "text/copyright.xhtml",
+    "text/author.xhtml",
+    "text/acknowledgments.xhtml",
+    "text/preface.xhtml",
+    "text/chapter_1.xhtml",
+    "text/chapter_2.xhtml",
+    "text/chapter_3.xhtml",
+    "text/chapter_4.xhtml",
+    "text/chapter_5.xhtml",
+    "text/chapter_6.xhtml",
+    "text/chapter_7.xhtml",
+    "text/chapter_8.xhtml",
+    "text/chapter_9.xhtml",
+    "text/chapter_10.xhtml",
+    "text/chapter_11.xhtml",
+    "text/chapter_12.xhtml",
+    "text/chapter_13.xhtml",
+    "text/chapter_14.xhtml",
+    "text/chapter_15.xhtml",
+    "text/afterword.xhtml",
+    "text/appendix.xhtml"
+  ],
+  "toc": [
+    {
+      "text": "版权信息",
+      "src": "text/copyright.xhtml"
+    },
+    {
+      "text": "致谢",
+      "src": "text/acknowledgments.xhtml"
+    },
+    {
+      "text": "五十周年版前言",
+      "src": "text/preface.xhtml"
+    },
+    {
+      "text": "第一部分 股票及其价值",
+      "src": "text/chapter_1.xhtml",
+      "subs": [
+        {
+          "text": "第1章 坚实基础与空中楼阁",
+          "src": "text/chapter_1.xhtml"
+        },
+        {
+          "text": "第2章 大众疯狂",
+          "src": "text/chapter_2.xhtml"
+        },
+        {
+          "text": "第3章 20世纪60～90年代的投机泡沫",
+          "src": "text/chapter_3.xhtml"
+        },
+        {
+          "text": "第4章 21世纪早期二十余年的超级泡沫",
+          "src": "text/chapter_4.xhtml"
+        }
+      ]
+    },
+    {
+      "text": "第二部分 专业人士如何参与城里这种最大的游戏",
+      "src": "text/chapter_5.xhtml",
+      "subs": [
+        {
+          "text": "第5章 技术分析与基本面分析",
+          "src": "text/chapter_5.xhtml"
+        },
+        {
+          "text": "第6章 技术分析与随机漫步理论",
+          "src": "text/chapter_6.xhtml"
+        },
+        {
+          "text": "第7章 基本面分析究竟有多出色及有效市场理论",
+          "src": "text/chapter_7.xhtml"
+        }
+      ]
+    },
+    {
+      "text": "第三部分 新投资技术",
+      "src": "text/chapter_8.xhtml",
+      "subs": [
+        {
+          "text": "第8章 新款漫步鞋：现代投资组合理论",
+          "src": "text/chapter_8.xhtml"
+        },
+        {
+          "text": "第9章 不冒风险，焉得财富",
+          "src": "text/chapter_9.xhtml"
+        },
+        {
+          "text": "第10章 行为金融学",
+          "src": "text/chapter_10.xhtml"
+        },
+        {
+          "text": "第11章 构建投资组合的新方法：聪明的β、风险平价和ESG投资",
+          "src": "text/chapter_11.xhtml"
+        }
+      ]
+    },
+    {
+      "text": "第四部分 随机漫步者及其他投资者实务指南",
+      "src": "text/chapter_12.xhtml",
+      "subs": [
+        {
+          "text": "第12章 随机漫步者及其他投资者健身手册",
+          "src": "text/chapter_12.xhtml"
+        },
+        {
+          "text": "第13章 金融竞赛的障碍：理解、预测股票和债券收益",
+          "src": "text/chapter_13.xhtml"
+        },
+        {
+          "text": "第14章 生命周期投资指南",
+          "src": "text/chapter_14.xhtml"
+        },
+        {
+          "text": "第15章 三种步伐漫步华尔街",
+          "src": "text/chapter_15.xhtml"
+        }
+      ]
+    },
+    {
+      "text": "跋",
+      "src": "text/afterword.xhtml"
+    },
+    {
+      "text": "附录 随机漫步者的共同基金、交易所交易基金参考指南",
+      "src": "text/appendix.xhtml"
+    }
+  ]
+}
