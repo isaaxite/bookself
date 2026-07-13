@@ -1,4 +1,15 @@
-body{ margin:0; padding:0;}
+@font-face {
+  font-family: "STKaiti";
+  src: url("../font/STKaiti.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+	margin:0;
+	padding:0;
+}
+
 /* 图片独占居中30%宽度 */
 div.pic30 {
 	width: 30%;
@@ -229,7 +240,7 @@ div.pic30 {
 	margin-top:10px;
 	margin-bottom:10px;
 	}/*居中*/
-/**/
+
 /*图片*/
 .pic-float-l{float:left;margin-top:10px;margin-right:10px;margin-bottom:10px;margin-left:0px;}/*居左绕文*/
 /*图片*/
