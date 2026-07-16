@@ -1,0 +1,783 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta name="dtb:uid" content="007b2c8e-388c-4a61-b356-96d0e981414d"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (5.23.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>投资稳赚：博格谈指数基金 (博格谈指数基金！)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="0" class="chapter">
+      <navLabel>
+        <text>书名页</text>
+      </navLabel>
+      <content src="text/part0000.html#0-ac2c9f51d2534969bce2b925208e9ec0"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="1" class="chapter">
+      <navLabel>
+        <text>版权页</text>
+      </navLabel>
+      <content src="text/part0001.html#UGI0-ac2c9f51d2534969bce2b925208e9ec0"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="2" class="chapter">
+      <navLabel>
+        <text>作者简介</text>
+      </navLabel>
+      <content src="text/part0002.html#1T140-ac2c9f51d2534969bce2b925208e9ec0"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="3" class="chapter">
+      <navLabel>
+        <text>权威推荐</text>
+      </navLabel>
+      <content src="text/part0005.html#4OIQ0-ac2c9f51d2534969bce2b925208e9ec0"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="4" class="chapter">
+      <navLabel>
+        <text>20世纪的投资巨人：约翰·博格</text>
+      </navLabel>
+      <content src="text/part0006.html#5N3C0-ac2c9f51d2534969bce2b925208e9ec0"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="5" class="chapter">
+      <navLabel>
+        <text>前言 投资中最重要的是常识</text>
+      </navLabel>
+      <content src="text/part0007.html#6LJU0-ac2c9f51d2534969bce2b925208e9ec0"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="6" class="chapter">
+      <navLabel>
+        <text>目录</text>
+      </navLabel>
+      <content src="text/part0008.html#7K4G0-ac2c9f51d2534969bce2b925208e9ec0"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="7" class="chapter">
+      <navLabel>
+        <text>第1章 投资常识 巴菲特亲自讲给你</text>
+      </navLabel>
+      <content src="text/part0009.html#8IL20-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_9" playOrder="1" class="chapter">
+        <navLabel>
+          <text>巴菲特讲的投资故事</text>
+        </navLabel>
+        <content src="text/part0009.html#isbn9787510059438_1_1_1"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="2" class="chapter">
+        <navLabel>
+          <text>赶走所有经纪人、基金经理和投资顾问！</text>
+        </navLabel>
+        <content src="text/part0009.html#isbn9787510059438_1_1_2"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="3" class="chapter">
+        <navLabel>
+          <text>持有企业股票，然后静待时机</text>
+        </navLabel>
+        <content src="text/part0009.html#isbn9787510059438_1_1_3"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="4" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0009.html#isbn9787510059438_1_1_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_13" playOrder="12" class="chapter">
+      <navLabel>
+        <text>第2章 股市收益 必然等于企业长期业绩</text>
+      </navLabel>
+      <content src="text/part0010.html#9H5K0-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_14" playOrder="5" class="chapter">
+        <navLabel>
+          <text>1900年投资1美元，2015年变成43 650美元</text>
+        </navLabel>
+        <content src="text/part0010.html#isbn9787510059438_2_1_1"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="6" class="chapter">
+        <navLabel>
+          <text>经济基本面决定股市最终表现</text>
+        </navLabel>
+        <content src="text/part0010.html#isbn9787510059438_2_1_2"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="7" class="chapter">
+        <navLabel>
+          <text>以10年视角看投资，收益极为稳定</text>
+        </navLabel>
+        <content src="text/part0010.html#isbn9787510059438_2_1_3"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="8" class="chapter">
+        <navLabel>
+          <text>以10年视角看投机，收益波动巨大</text>
+        </navLabel>
+        <content src="text/part0010.html#isbn9787510059438_2_1_4"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="9" class="chapter">
+        <navLabel>
+          <text>投资者心理摸不透，市场长期走势可以预测</text>
+        </navLabel>
+        <content src="text/part0010.html#isbn9787510059438_2_1_5"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="10" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0010.html#isbn9787510059438_2_1_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_20" playOrder="19" class="chapter">
+      <navLabel>
+        <text>第3章 指数基金 最简单的工具往往最有效</text>
+      </navLabel>
+      <content src="text/part0011.html#AFM60-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_21" playOrder="11" class="chapter">
+        <navLabel>
+          <text>持有涵盖整体股票市场的投资组合</text>
+        </navLabel>
+        <content src="text/part0011.html#isbn9787510059438_3_1_1"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="12" class="chapter">
+        <navLabel>
+          <text>赢家与市场为友，输家与市场为敌</text>
+        </navLabel>
+        <content src="text/part0011.html#isbn9787510059438_3_1_2"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="13" class="chapter">
+        <navLabel>
+          <text>指数基金表现优于90%的主动型共同基金</text>
+        </navLabel>
+        <content src="text/part0011.html#isbn9787510059438_3_1_3"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="14" class="chapter">
+        <navLabel>
+          <text>投资的真理：人多的地方不要去！</text>
+        </navLabel>
+        <content src="text/part0011.html#isbn9787510059438_3_1_4"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="15" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0011.html#isbn9787510059438_3_1_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_26" playOrder="25" class="chapter">
+      <navLabel>
+        <text>第4章 成本 长期收益的“胜负手”</text>
+      </navLabel>
+      <content src="text/part0012.html#BE6O0-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_27" playOrder="16" class="chapter">
+        <navLabel>
+          <text>扣除成本后，击败市场是一场输家游戏</text>
+        </navLabel>
+        <content src="text/part0012.html#isbn9787510059438_4_1_1"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="17" class="chapter">
+        <navLabel>
+          <text>客户的游艇在哪里？</text>
+        </navLabel>
+        <content src="text/part0012.html#isbn9787510059438_4_1_2"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="18" class="chapter">
+        <navLabel>
+          <text>本应属于我的179 900美元去哪了？</text>
+        </navLabel>
+        <content src="text/part0012.html#isbn9787510059438_4_1_3"/>
+      </navPoint>
+      <navPoint id="num_30" playOrder="19" class="chapter">
+        <navLabel>
+          <text>金融中介：不承担任何风险，却收下60%的收益</text>
+        </navLabel>
+        <content src="text/part0012.html#isbn9787510059438_4_1_4"/>
+      </navPoint>
+      <navPoint id="num_31" playOrder="20" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0012.html#isbn9787510059438_4_1_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_32" playOrder="31" class="chapter">
+      <navLabel>
+        <text>第5章 费率 “到低成本池塘里钓鱼”</text>
+      </navLabel>
+      <content src="text/part0013.html#CCNA0-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_33" playOrder="21" class="chapter">
+        <navLabel>
+          <text>业绩起起伏伏，而成本始终存在</text>
+        </navLabel>
+        <content src="text/part0013.html#isbn9787510059438_5_1_1"/>
+      </navPoint>
+      <navPoint id="num_34" playOrder="22" class="chapter">
+        <navLabel>
+          <text>费用是巨大的、狡猾的、隐性附加的</text>
+        </navLabel>
+        <content src="text/part0013.html#isbn9787510059438_5_1_2"/>
+      </navPoint>
+      <navPoint id="num_35" playOrder="23" class="chapter">
+        <navLabel>
+          <text>10年后，成本最低的基金赚8倍，成本最高的只赚6倍</text>
+        </navLabel>
+        <content src="text/part0013.html#isbn9787510059438_5_1_3"/>
+      </navPoint>
+      <navPoint id="num_36" playOrder="24" class="chapter">
+        <navLabel>
+          <text>阻止经理人不劳而获，便可笑纳全部收益</text>
+        </navLabel>
+        <content src="text/part0013.html#isbn9787510059438_5_1_4"/>
+      </navPoint>
+      <navPoint id="num_37" playOrder="25" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0013.html#isbn9787510059438_5_1_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_38" playOrder="37" class="chapter">
+      <navLabel>
+        <text>第6章 股利 对长期收益影响巨大</text>
+      </navLabel>
+      <content src="text/part0014.html#DB7S0-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_39" playOrder="26" class="chapter">
+        <navLabel>
+          <text>你要170万美元，还是5 910万美元？</text>
+        </navLabel>
+        <content src="text/part0014.html#isbn9787510059438_6_1_1"/>
+      </navPoint>
+      <navPoint id="num_40" playOrder="27" class="chapter">
+        <navLabel>
+          <text>费用能吃掉基金的全部收益</text>
+        </navLabel>
+        <content src="text/part0014.html#isbn9787510059438_6_1_2"/>
+      </navPoint>
+      <navPoint id="num_41" playOrder="28" class="chapter">
+        <navLabel>
+          <text>还会不断侵蚀你的股利收益</text>
+        </navLabel>
+        <content src="text/part0014.html#isbn9787510059438_6_1_3"/>
+      </navPoint>
+      <navPoint id="num_42" playOrder="29" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0014.html#isbn9787510059438_6_1_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_43" playOrder="42" class="chapter">
+      <navLabel>
+        <text>第7章 行情和热点 制造盲目的乐观和贪婪</text>
+      </navLabel>
+      <content src="text/part0015.html#E9OE0-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_44" playOrder="30" class="chapter">
+        <navLabel>
+          <text>行情好，资金流入；行情差，资金流出</text>
+        </navLabel>
+        <content src="text/part0015.html#isbn9787510059438_7_1_1"/>
+      </navPoint>
+      <navPoint id="num_45" playOrder="31" class="chapter">
+        <navLabel>
+          <text>成本和通胀的双重惩罚</text>
+        </navLabel>
+        <content src="text/part0015.html#isbn9787510059438_7_1_2"/>
+      </navPoint>
+      <navPoint id="num_46" playOrder="32" class="chapter">
+        <navLabel>
+          <text>错误的基金和错误的时机，让收益大打折扣</text>
+        </navLabel>
+        <content src="text/part0015.html#isbn9787510059438_7_1_3"/>
+      </navPoint>
+      <navPoint id="num_47" playOrder="33" class="chapter">
+        <navLabel>
+          <text>当情绪遇上营销，投资的灾难便开始了</text>
+        </navLabel>
+        <content src="text/part0015.html#isbn9787510059438_7_1_4"/>
+      </navPoint>
+      <navPoint id="num_48" playOrder="34" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0015.html#isbn9787510059438_7_1_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_49" playOrder="48" class="chapter">
+      <navLabel>
+        <text>第8章 税金 经常被忽视的重要成本</text>
+      </navLabel>
+      <content src="text/part0016.html#F8900-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_50" playOrder="35" class="chapter">
+        <navLabel>
+          <text>频繁换手导致税收负担加重</text>
+        </navLabel>
+        <content src="text/part0016.html#isbn9787510059438_8_1_1"/>
+      </navPoint>
+      <navPoint id="num_51" playOrder="36" class="chapter">
+        <navLabel>
+          <text>主动型基金让投资者损失28 600美元</text>
+        </navLabel>
+        <content src="text/part0016.html#isbn9787510059438_8_1_2"/>
+      </navPoint>
+      <navPoint id="num_52" playOrder="37" class="chapter">
+        <navLabel>
+          <text>压垮骆驼的最后一根稻草是什么？</text>
+        </navLabel>
+        <content src="text/part0016.html#isbn9787510059438_8_1_3"/>
+      </navPoint>
+      <navPoint id="num_53" playOrder="38" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0016.html#isbn9787510059438_8_1_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_54" playOrder="53" class="chapter">
+      <navLabel>
+        <text>第9章 低收益率 我们不得不面对的未来</text>
+      </navLabel>
+      <content src="text/part0017.html#G6PI0-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_55" playOrder="39" class="chapter">
+        <navLabel>
+          <text>股市的黄金时代即将结束</text>
+        </navLabel>
+        <content src="text/part0017.html#isbn9787510059438_9_1_1"/>
+      </navPoint>
+      <navPoint id="num_56" playOrder="40" class="chapter">
+        <navLabel>
+          <text>未来的股市收益可能只有6%，甚至4%</text>
+        </navLabel>
+        <content src="text/part0017.html#isbn9787510059438_9_1_2"/>
+      </navPoint>
+      <navPoint id="num_57" playOrder="41" class="chapter">
+        <navLabel>
+          <text>债券收益也可能低于历史平均水平</text>
+        </navLabel>
+        <content src="text/part0017.html#isbn9787510059438_9_1_3"/>
+      </navPoint>
+      <navPoint id="num_58" playOrder="42" class="chapter">
+        <navLabel>
+          <text>平衡型基金收益率将接近于0</text>
+        </navLabel>
+        <content src="text/part0017.html#isbn9787510059438_9_1_4"/>
+      </navPoint>
+      <navPoint id="num_59" playOrder="43" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0017.html#isbn9787510059438_9_1_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_60" playOrder="59" class="chapter">
+      <navLabel>
+        <text>第10章 选中长期赢家 如同在草堆里寻针</text>
+      </navLabel>
+      <content src="text/part0018.html#H5A40-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_61" playOrder="44" class="chapter">
+        <navLabel>
+          <text>40多年里，80%的基金不复存在了</text>
+        </navLabel>
+        <content src="text/part0018.html#isbn9787510059438_10_1_1"/>
+      </navPoint>
+      <navPoint id="num_62" playOrder="45" class="chapter">
+        <navLabel>
+          <text>355只基金中，仅有2只称得上优秀</text>
+        </navLabel>
+        <content src="text/part0018.html#isbn9787510059438_10_1_2"/>
+      </navPoint>
+      <navPoint id="num_63" playOrder="46" class="chapter">
+        <navLabel>
+          <text>大名鼎鼎的富达基金，也成了明日黄花</text>
+        </navLabel>
+        <content src="text/part0018.html#isbn9787510059438_10_1_3"/>
+      </navPoint>
+      <navPoint id="num_64" playOrder="47" class="chapter">
+        <navLabel>
+          <text>“大钱包”：超额收益的天敌</text>
+        </navLabel>
+        <content src="text/part0018.html#isbn9787510059438_10_1_4"/>
+      </navPoint>
+      <navPoint id="num_65" playOrder="48" class="chapter">
+        <navLabel>
+          <text>与其在草堆里寻针，不如买下整个草堆！</text>
+        </navLabel>
+        <content src="text/part0018.html#isbn9787510059438_10_1_5"/>
+      </navPoint>
+      <navPoint id="num_66" playOrder="49" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0018.html#isbn9787510059438_10_1_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_67" playOrder="66" class="chapter">
+      <navLabel>
+        <text>第11章 均值回归 优秀短期业绩的宿命</text>
+      </navLabel>
+      <content src="text/part0019.html#I3QM0-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_68" playOrder="50" class="chapter">
+        <navLabel>
+          <text>表现最好的基金中，有18%会在5年内停止运营</text>
+        </navLabel>
+        <content src="text/part0019.html#isbn9787510059438_11_1_1"/>
+      </navPoint>
+      <navPoint id="num_69" playOrder="51" class="chapter">
+        <navLabel>
+          <text>我们只是“随机漫步的傻瓜”</text>
+        </navLabel>
+        <content src="text/part0019.html#isbn9787510059438_11_1_2"/>
+      </navPoint>
+      <navPoint id="num_70" playOrder="52" class="chapter">
+        <navLabel>
+          <text>明星基金很少是“恒星”，多数是“彗星”</text>
+        </navLabel>
+        <content src="text/part0019.html#isbn9787510059438_11_1_3"/>
+      </navPoint>
+      <navPoint id="num_71" playOrder="53" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0019.html#isbn9787510059438_11_1_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_72" playOrder="71" class="chapter">
+      <navLabel>
+        <text>第12章 投资顾问 大多数毫无价值</text>
+      </navLabel>
+      <content src="text/part0020.html#J2B80-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_73" playOrder="54" class="chapter">
+        <navLabel>
+          <text>70%的家庭依赖投资顾问</text>
+        </navLabel>
+        <content src="text/part0020.html#isbn9787510059438_12_1_1"/>
+      </navPoint>
+      <navPoint id="num_74" playOrder="55" class="chapter">
+        <navLabel>
+          <text>哈佛商学院教授：投资顾问在帮倒忙！</text>
+        </navLabel>
+        <content src="text/part0020.html#isbn9787510059438_12_1_2"/>
+      </navPoint>
+      <navPoint id="num_75" playOrder="56" class="chapter">
+        <navLabel>
+          <text>靠投资顾问赚2.9%，自己买基金赚6.6%</text>
+        </navLabel>
+        <content src="text/part0020.html#isbn9787510059438_12_1_3"/>
+      </navPoint>
+      <navPoint id="num_76" playOrder="57" class="chapter">
+        <navLabel>
+          <text>世界最大股票经纪公司让投资者损失80%</text>
+        </navLabel>
+        <content src="text/part0020.html#isbn9787510059438_12_1_4"/>
+      </navPoint>
+      <navPoint id="num_77" playOrder="58" class="chapter">
+        <navLabel>
+          <text>面对投资顾问，当心、再当心！</text>
+        </navLabel>
+        <content src="text/part0020.html#isbn9787510059438_12_1_5"/>
+      </navPoint>
+      <navPoint id="num_78" playOrder="59" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0020.html#isbn9787510059438_12_1_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_79" playOrder="78" class="chapter">
+      <navLabel>
+        <text>第13章 严控成本 尽可能化繁为简</text>
+      </navLabel>
+      <content src="text/part0021.html#K0RQ0-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_80" playOrder="60" class="chapter">
+        <navLabel>
+          <text>50年后，指数基金将跑赢98%的主动型基金</text>
+        </navLabel>
+        <content src="text/part0021.html#isbn9787510059438_13_1_1"/>
+      </navPoint>
+      <navPoint id="num_81" playOrder="61" class="chapter">
+        <navLabel>
+          <text>减少0.21%的费率，能帮投资者多赚2 058美元</text>
+        </navLabel>
+        <content src="text/part0021.html#isbn9787510059438_13_1_2"/>
+      </navPoint>
+      <navPoint id="num_82" playOrder="62" class="chapter">
+        <navLabel>
+          <text>确保自己赚钱，而不是帮基金经理赚钱</text>
+        </navLabel>
+        <content src="text/part0021.html#isbn9787510059438_13_1_3"/>
+      </navPoint>
+      <navPoint id="num_83" playOrder="63" class="chapter">
+        <navLabel>
+          <text>无论市场是否有效，指数工具都会起作用</text>
+        </navLabel>
+        <content src="text/part0021.html#isbn9787510059438_13_1_4"/>
+      </navPoint>
+      <navPoint id="num_84" playOrder="64" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0021.html#isbn9787510059438_13_1_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_85" playOrder="84" class="chapter">
+      <navLabel>
+        <text>第14章 债券型指数基金 优秀业绩有目共睹</text>
+      </navLabel>
+      <content src="text/part0022.html#KVCC0-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_86" playOrder="65" class="chapter">
+        <navLabel>
+          <text>当前，债券收益比股票高1.1%</text>
+        </navLabel>
+        <content src="text/part0022.html#isbn9787510059438_14_1_1"/>
+      </navPoint>
+      <navPoint id="num_87" playOrder="66" class="chapter">
+        <navLabel>
+          <text>过度依赖垃圾债券，风险极高</text>
+        </navLabel>
+        <content src="text/part0022.html#isbn9787510059438_14_1_2"/>
+      </navPoint>
+      <navPoint id="num_88" playOrder="67" class="chapter">
+        <navLabel>
+          <text>主动型债券基金收益同样落后基准指数</text>
+        </navLabel>
+        <content src="text/part0022.html#isbn9787510059438_14_1_3"/>
+      </navPoint>
+      <navPoint id="num_89" playOrder="68" class="chapter">
+        <navLabel>
+          <text>怎样构建理想的投资组合？</text>
+        </navLabel>
+        <content src="text/part0022.html#isbn9787510059438_14_1_4"/>
+      </navPoint>
+      <navPoint id="num_90" playOrder="69" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0022.html#isbn9787510059438_14_1_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_91" playOrder="90" class="chapter">
+      <navLabel>
+        <text>第15章 ETF 一只披着羊皮的狼</text>
+      </navLabel>
+      <content src="text/part0023.html#LTSU0-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_92" playOrder="70" class="chapter">
+        <navLabel>
+          <text>ETF背离了指数基金的初衷</text>
+        </navLabel>
+        <content src="text/part0023.html#isbn9787510059438_15_1_1"/>
+      </navPoint>
+      <navPoint id="num_93" playOrder="71" class="chapter">
+        <navLabel>
+          <text>总成交量550亿美元，换手率2 900%！</text>
+        </navLabel>
+        <content src="text/part0023.html#isbn9787510059438_15_1_2"/>
+      </navPoint>
+      <navPoint id="num_94" playOrder="72" class="chapter">
+        <navLabel>
+          <text>ETF就像最好的猎枪，是自杀的最佳工具</text>
+        </navLabel>
+        <content src="text/part0023.html#isbn9787510059438_15_1_3"/>
+      </navPoint>
+      <navPoint id="num_95" playOrder="73" class="chapter">
+        <navLabel>
+          <text>中间商美梦成真，投资者的梦谁来圆？</text>
+        </navLabel>
+        <content src="text/part0023.html#isbn9787510059438_15_1_4"/>
+      </navPoint>
+      <navPoint id="num_96" playOrder="74" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0023.html#isbn9787510059438_15_1_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_97" playOrder="96" class="chapter">
+      <navLabel>
+        <text>第16章 “新型指数基金” 对理性和历史的双重违背</text>
+      </navLabel>
+      <content src="text/part0024.html#MSDG0-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_98" playOrder="75" class="chapter">
+        <navLabel>
+          <text>承诺高收益，收取高费用，却不负责结果</text>
+        </navLabel>
+        <content src="text/part0024.html#isbn9787510059438_16_1_1"/>
+      </navPoint>
+      <navPoint id="num_99" playOrder="76" class="chapter">
+        <navLabel>
+          <text>有利于发起人，有害于投资者</text>
+        </navLabel>
+        <content src="text/part0024.html#isbn9787510059438_16_1_2"/>
+      </navPoint>
+      <navPoint id="num_100" playOrder="77" class="chapter">
+        <navLabel>
+          <text>“聪明β之父”也认为它终将崩溃</text>
+        </navLabel>
+        <content src="text/part0024.html#isbn9787510059438_16_1_3"/>
+      </navPoint>
+      <navPoint id="num_101" playOrder="78" class="chapter">
+        <navLabel>
+          <text>安全是不是比后悔好一些？</text>
+        </navLabel>
+        <content src="text/part0024.html#isbn9787510059438_16_1_4"/>
+      </navPoint>
+      <navPoint id="num_102" playOrder="79" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0024.html#isbn9787510059438_16_1_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_103" playOrder="102" class="chapter">
+      <navLabel>
+        <text>第17章 选择防御型投资 做更聪明的投资者</text>
+      </navLabel>
+      <content src="text/part0025.html#NQU20-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_104" playOrder="80" class="chapter">
+        <navLabel>
+          <text>如何成为聪明的投资者</text>
+        </navLabel>
+        <content src="text/part0025.html#isbn9787510059438_17_1_1"/>
+      </navPoint>
+      <navPoint id="num_105" playOrder="81" class="chapter">
+        <navLabel>
+          <text>财富不可能来自买卖，只能源于价值增长</text>
+        </navLabel>
+        <content src="text/part0025.html#isbn9787510059438_17_1_2"/>
+      </navPoint>
+      <navPoint id="num_106" playOrder="82" class="chapter">
+        <navLabel>
+          <text>直截简明的多样化+理性长期预期</text>
+        </navLabel>
+        <content src="text/part0025.html#isbn9787510059438_17_1_3"/>
+      </navPoint>
+      <navPoint id="num_107" playOrder="83" class="chapter">
+        <navLabel>
+          <text>传统指数基金完美诠释格雷厄姆教诲</text>
+        </navLabel>
+        <content src="text/part0025.html#isbn9787510059438_17_1_4"/>
+      </navPoint>
+      <navPoint id="num_108" playOrder="84" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0025.html#isbn9787510059438_17_1_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_109" playOrder="108" class="chapter">
+      <navLabel>
+        <text>第18章 资产配置（一） 原则和策略</text>
+      </navLabel>
+      <content src="text/part0026.html#OPEK0-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_110" playOrder="85" class="chapter">
+        <navLabel>
+          <text>资产配置能导致94%的收益差异</text>
+        </navLabel>
+        <content src="text/part0026.html#isbn9787510059438_18_1_1"/>
+      </navPoint>
+      <navPoint id="num_111" playOrder="86" class="chapter">
+        <navLabel>
+          <text>股债配置比例应与风险容忍度相一致</text>
+        </navLabel>
+        <content src="text/part0026.html#isbn9787510059438_18_1_2"/>
+      </navPoint>
+      <navPoint id="num_112" playOrder="87" class="chapter">
+        <navLabel>
+          <text>聪明投资者的四项抉择</text>
+        </navLabel>
+        <content src="text/part0026.html#isbn9787510059438_18_1_3"/>
+      </navPoint>
+      <navPoint id="num_113" playOrder="88" class="chapter">
+        <navLabel>
+          <text>用低成本指数基金替换高成本主动型基金</text>
+        </navLabel>
+        <content src="text/part0026.html#isbn9787510059438_18_1_4"/>
+      </navPoint>
+      <navPoint id="num_114" playOrder="89" class="chapter">
+        <navLabel>
+          <text>没有万无一失，只能力求最好</text>
+        </navLabel>
+        <content src="text/part0026.html#isbn9787510059438_18_1_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_115" playOrder="114" class="chapter">
+      <navLabel>
+        <text>第19章 资产配置（二） 退休规划</text>
+      </navLabel>
+      <content src="text/part0027.html#PNV60-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_116" playOrder="90" class="chapter">
+        <navLabel>
+          <text>60%股票与40%债券</text>
+        </navLabel>
+        <content src="text/part0027.html#isbn9787510059438_19_1_1"/>
+      </navPoint>
+      <navPoint id="num_117" playOrder="91" class="chapter">
+        <navLabel>
+          <text>随年龄变化调整配置计划</text>
+        </navLabel>
+        <content src="text/part0027.html#isbn9787510059438_19_1_2"/>
+      </navPoint>
+      <navPoint id="num_118" playOrder="92" class="chapter">
+        <navLabel>
+          <text>退休后收入应跑平通胀</text>
+        </navLabel>
+        <content src="text/part0027.html#isbn9787510059438_19_1_3"/>
+      </navPoint>
+      <navPoint id="num_119" playOrder="93" class="chapter">
+        <navLabel>
+          <text>海外资产配置不要超过20%</text>
+        </navLabel>
+        <content src="text/part0027.html#isbn9787510059438_19_1_4"/>
+      </navPoint>
+      <navPoint id="num_120" playOrder="94" class="chapter">
+        <navLabel>
+          <text>“生命策略”基金是投资者的明智之选</text>
+        </navLabel>
+        <content src="text/part0027.html#isbn9787510059438_19_1_5"/>
+      </navPoint>
+      <navPoint id="num_121" playOrder="95" class="chapter">
+        <navLabel>
+          <text>重视社会保险</text>
+        </navLabel>
+        <content src="text/part0027.html#isbn9787510059438_19_1_6"/>
+      </navPoint>
+      <navPoint id="num_122" playOrder="96" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0027.html#isbn9787510059438_19_1_7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_123" playOrder="122" class="chapter">
+      <navLabel>
+        <text>第20章 投资的智慧 经得起时间检验</text>
+      </navLabel>
+      <content src="text/part0028.html#QMFO0-ac2c9f51d2534969bce2b925208e9ec0"/>
+      <navPoint id="num_124" playOrder="97" class="chapter">
+        <navLabel>
+          <text>成功投资的必要常识</text>
+        </navLabel>
+        <content src="text/part0028.html#isbn9787510059438_20_1_1"/>
+      </navPoint>
+      <navPoint id="num_125" playOrder="98" class="chapter">
+        <navLabel>
+          <text>当约翰·博格遇见本杰明·富兰克林</text>
+        </navLabel>
+        <content src="text/part0028.html#isbn9787510059438_20_1_2"/>
+      </navPoint>
+      <navPoint id="num_126" playOrder="99" class="chapter">
+        <navLabel>
+          <text>通向财富之路</text>
+        </navLabel>
+        <content src="text/part0028.html#isbn9787510059438_20_1_3"/>
+      </navPoint>
+      <navPoint id="num_127" playOrder="100" class="chapter">
+        <navLabel>
+          <text>杰出投资者锐评</text>
+        </navLabel>
+        <content src="text/part0028.html#isbn9787510059438_20_1_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_128" playOrder="127" class="chapter">
+      <navLabel>
+        <text>致谢</text>
+      </navLabel>
+      <content src="text/part0029.html#RL0A0-ac2c9f51d2534969bce2b925208e9ec0"/>
+    </navPoint>
+  </navMap>
+</ncx>
